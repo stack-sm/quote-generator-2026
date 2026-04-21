@@ -1,0 +1,1172 @@
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:48:53.551Z - [Client] Starting new daemon server in background
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:48:53.558Z - [Client] Waiting for server (max: 6000 attempts, 10ms interval)
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:53.771Z - New daemon starting from: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server\server.js
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:53.772Z - New daemon __dirname: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:53.772Z - New daemon nxVersion: 22.6.5
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:53.772Z - New daemon getInstalledNxVersion(): 22.6.5
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:53.773Z - Time taken for 'workspace context init' 1.1546000000000163ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:53.774Z - [Server] Starting outdated check interval (20ms)
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:53.775Z - Started listening on: \\.\pipe\nx\C:\Users\sabca\AppData\Local\Temp\e4562c163add11625b07\d.sock
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:53.776Z - [WATCHER]: Subscribed to changes within: C:\Users\sabca\GitHub Projects\quote-generator (native)
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:53.777Z - [LATEST-NX]: Pulling latest Nx...
+Fetching nx...
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:48:53.780Z - [Client] Server available
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:48:53.780Z - [Client] Daemon server started, pid=16388
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:48:53.781Z - [Messenger] Setting up socket listeners
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:48:53.781Z - [Messenger] listen() complete
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:48:53.781Z - [Messenger] Sending message type: REQUEST_PROJECT_GRAPH
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:48:53.782Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:53.788Z - [AI-AGENTS]: Starting agent configuration status computation
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:53.790Z - Established a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:53.790Z - Established a connection. Number of open connections: 2
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:53.791Z - Closed a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:53.904Z - Time taken for 'loadSpecifiedNxPlugins' 11.586000000000013ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:53.940Z - Received raw message of length 32
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:53.940Z - Received json message of type REQUEST_PROJECT_GRAPH
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:53.941Z - [REQUEST]: Client Request for Project Graph Received
+Time taken for 'plugin worker 17732 code loading' 113.1602ms
+Time taken for 'plugin worker 24060 code loading' 109.5538ms
+Time taken for 'plugin worker 16592 code loading' 113.6867ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.045Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\js' 151.3764ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.045Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\package-json' 147.94869999999997ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.045Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\project-json\build-nodes\project-json' 144.789ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.107Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\project-json\build-nodes\project-json' 216.24510000000004ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.110Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\package-json' 220.63049999999998ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.125Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.125Z - [REQUEST]: 
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.125Z - [REQUEST]: 
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.126Z - Reusing in-memory cached project graph because no files changed.
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.130Z - Time taken for 'loadDefaultNxPlugins' 236.6062ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.130Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\js' 236.3535ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.130Z - Time taken for 'hash changed files from watcher' 0.0886000000000422ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.177Z - Time taken for 'build-project-configs' 36.42949999999996ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.177Z - Time taken for 'createNodes:merge' 10.348499999999945ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.177Z - Time taken for 'native-file-deps' 0.004500000000007276ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.177Z - Time taken for 'get-workspace-files' 0.2676999999999907ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.177Z - Time taken for 'get-all-workspace-files' 6.887899999999945ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.177Z - Time taken for 'read cache' 0.1814000000000533ms
+Time taken for 'nx/js/dependencies-and-lockfile:createNodes' 17.413600000000002ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.219Z - [SYNC]: collect registered sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.225Z - Wrote project graph cache to C:\Users\sabca\GitHub Projects\quote-generator\.nx\workspace-data\project-graph.json
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.225Z - Serializing response for REQUEST_PROJECT_GRAPH message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.225Z - Responding to REQUEST_PROJECT_GRAPH message
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.225Z - [REQUEST]: Responding to the client. project-graph
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.226Z - Time taken for 'total for creating and serializing project graph' 284.4373ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.226Z - Time taken for 'total execution time for createProjectGraph()' 47.65210000000002ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.226Z - Time taken for 'createDependencies' 42.23000000000002ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.226Z - Time taken for 'nx/js/dependencies-and-lockfile:createDependencies' 42.1164ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.226Z - Time taken for 'createMetadata' 0.02699999999992997ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.226Z - Time taken for 'serialize graph' 1.3739000000000487ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.226Z - Time taken for 'write cache' 4.564599999999928ms
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:48:54.227Z - [Messenger] Received message, length: 567108
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.227Z - Done responding to the client project-graph
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.227Z - Handled json message REQUEST_PROJECT_GRAPH. Handling time: 284. Response time: 2.
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:48:54.230Z - [Messenger] Sending message type: PRE_TASKS_EXECUTION
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:48:54.230Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.231Z - Received raw message of length 661
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.231Z - Received json message of type PRE_TASKS_EXECUTION
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.232Z - Serializing response for PRE_TASKS_EXECUTION message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.232Z - Responding to PRE_TASKS_EXECUTION message
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.232Z - [REQUEST]: Responding to the client. handleRunPreTasksExecution
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.232Z - Time taken for 'preTasksExecution' 0.6196999999999662ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.232Z - Done responding to the client handleRunPreTasksExecution
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.232Z - Handled json message PRE_TASKS_EXECUTION. Handling time: 1. Response time: 0.
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:48:54.232Z - [Messenger] Received message, length: 2
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:48:54.267Z - [Messenger] Sending message type: HASH_TASKS
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:48:54.267Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.268Z - Received raw message of length 6056
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.268Z - Received json message of type HASH_TASKS
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.268Z - Reusing in-memory cached project graph because no files changed.
+DEBUG nx::native::tasks::hash_planner: get_plans_internal COMPLETED in 1.955ms - processed 1 tasks (setup: 1.8629ms, parallel_planning: 81.6µs)
+DEBUG nx::native::tasks::hashers::hash_workspace_files: Hashing workspace fileset with inputs: Adding "16468849555267642084" (".gitignore") to hash
+DEBUG nx::native::tasks::hashers::hash_workspace_files: Hashing workspace fileset with inputs: Adding "18270460340577751534" ("nx.json") to hash
+DEBUG nx::native::tasks::hashers::hash_workspace_files: Hashing workspace fileset with inputs: Hash Value: "7927565684476646975"
+DEBUG nx::native::tasks::task_hasher: hash_plans COMPLETED in 979.4µs - processed 1 plans (setup: 156.4µs, hashing: 821.2µs, assembly: 37.8µs)
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.280Z - Serializing response for HASH_TASKS message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.280Z - Responding to HASH_TASKS message
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.280Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:48:54.281Z - [Messenger] Received message, length: 841
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.282Z - Done responding to the client handleHashTasks
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.282Z - Handled json message HASH_TASKS. Handling time: 12. Response time: 2.
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:48:54.286Z - [Messenger] Sending message type: GET_ESTIMATED_TASK_TIMINGS
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:48:54.286Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.290Z - Received raw message of length 117
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.291Z - Received json message of type GET_ESTIMATED_TASK_TIMINGS
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.292Z - Serializing response for GET_ESTIMATED_TASK_TIMINGS message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.292Z - Responding to GET_ESTIMATED_TASK_TIMINGS message
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.292Z - [REQUEST]: Responding to the client. handleGetEstimatedTaskTimings
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.292Z - Done responding to the client handleGetEstimatedTaskTimings
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.292Z - Handled json message GET_ESTIMATED_TASK_TIMINGS. Handling time: 1. Response time: 0.
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:48:54.293Z - [Messenger] Received message, length: 2
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.354Z - [WATCHER]: 0 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.464Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.464Z - [REQUEST]: 
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.464Z - [REQUEST]: 
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.479Z - Time taken for 'hash changed files from watcher' 0.04259999999999309ms
+Time taken for 'plugin worker 7044 code loading' 127.49499999999999ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.632Z - Time taken for 'start-plugin-worker:nx/js/dependencies-and-lockfile' 166.80420000000004ms
+Time taken for 'plugin worker 2588 code loading' 124.24069999999999ms
+Time taken for 'plugin worker 26636 code loading' 128.53140000000002ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.651Z - Time taken for 'start-plugin-worker:nx/core/package-json' 180.4357000000001ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.651Z - Time taken for 'start-plugin-worker:nx/core/project-json' 175.80140000000006ms
+Time taken for 'nx/js/dependencies-and-lockfile:createNodes' 8.50630000000001ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.721Z - Time taken for 'build-project-configs' 251.68629999999996ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.721Z - Time taken for 'createNodes:merge' 0.6818000000000666ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.721Z - Time taken for 'get-all-workspace-files' 0.016499999999950887ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.736Z - [SYNC]: collect registered sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.736Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.736Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.736Z - Time taken for 'total execution time for createProjectGraph()' 17.232099999999946ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.736Z - Time taken for 'createDependencies' 14.784999999999854ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.736Z - Time taken for 'nx/js/dependencies-and-lockfile:createDependencies' 14.713500000000067ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.737Z - Time taken for 'createMetadata' 0.02369999999996253ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:54.737Z - Time taken for 'serialize graph' 1.646199999999908ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:56.983Z - [WATCHER]: Processing file changes in outputs
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:57.218Z - [WATCHER]: Processing file changes in outputs
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:57.421Z - [LATEST-NX]: Successfully pulled latest Nx to C:\Users\sabca\AppData\Local\Temp\tmp-16388-moAdLFZHpyQG
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:57.575Z - [NX-CONSOLE]: Using local implementation (NX_USE_LOCAL=true or inner call)
+DEBUG nx::native::ide::install: Detected editor: VSCode
+DEBUG nx::native::ide::install: Checking if Nx Console extension is installed with: code.cmd --list-extensions
+DEBUG nx::native::ide::install: Editor command 'code.cmd' is installed
+DEBUG nx::native::ide::install: Editor command 'code-insiders.cmd' not found
+DEBUG nx::native::ide::install: Checking if Nx Console extension is installed with: code.cmd --list-extensions
+DEBUG nx::native::ide::install: Nx Console extension is installed
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:57.913Z - [NX-CONSOLE]: Console status check completed, shouldPrompt: false
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:58.025Z - [WATCHER]: Processing file changes in outputs
+DEBUG nx::native::ide::install: Nx Console extension is installed
+DEBUG nx::native::ide::install: Editor command 'cursor.cmd' not found
+DEBUG nx::native::ide::install: Checking if Nx Console extension is installed with: cursor.cmd --list-extensions
+DEBUG nx::native::ide::install: Command 'cursor.cmd' not found, cannot check extension status
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:48:58.106Z - [AI-AGENTS]: Agent configuration status computation completed: 0 fully configured, 0 outdated, 1 partially configured, 4 non-configured
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:50.955Z - Established a connection. Number of open connections: 2
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:50.955Z - Closed a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:50.956Z - Established a connection. Number of open connections: 2
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:50.956Z - Closed a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:50.956Z - Established a connection. Number of open connections: 2
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:50:50.955Z - [Messenger] Setting up socket listeners
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:50:50.956Z - [Messenger] listen() complete
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:50:50.957Z - [Messenger] Sending message type: GET_NX_CONSOLE_STATUS
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:50:50.957Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.092Z - Received raw message of length 32
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.092Z - Received json message of type GET_NX_CONSOLE_STATUS
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.092Z - Serializing response for GET_NX_CONSOLE_STATUS message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.092Z - Responding to GET_NX_CONSOLE_STATUS message
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.092Z - [REQUEST]: Responding to the client. handleGetNxConsoleStatus
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.092Z - Done responding to the client handleGetNxConsoleStatus
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.092Z - Handled json message GET_NX_CONSOLE_STATUS. Handling time: 0. Response time: 0.
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:50:51.092Z - [Messenger] Received message, length: 22
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:50:51.104Z - [Messenger] Sending message type: REQUEST_PROJECT_GRAPH
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:50:51.104Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.107Z - Received raw message of length 32
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.107Z - Received json message of type REQUEST_PROJECT_GRAPH
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.107Z - [REQUEST]: Client Request for Project Graph Received
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.107Z - Reusing in-memory cached project graph because no files changed.
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.107Z - Serializing response for REQUEST_PROJECT_GRAPH message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.107Z - Responding to REQUEST_PROJECT_GRAPH message
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.107Z - [REQUEST]: Responding to the client. project-graph
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.108Z - Time taken for 'total for creating and serializing project graph' 0.3684999999968568ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.108Z - Done responding to the client project-graph
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.109Z - Handled json message REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:50:51.109Z - [Messenger] Received message, length: 567108
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:50:51.568Z - [Messenger] Sending message type: REQUEST_PROJECT_GRAPH
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:50:51.568Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.570Z - Received raw message of length 32
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.570Z - Received json message of type REQUEST_PROJECT_GRAPH
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.570Z - [REQUEST]: Client Request for Project Graph Received
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.570Z - Reusing in-memory cached project graph because no files changed.
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.570Z - Serializing response for REQUEST_PROJECT_GRAPH message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.570Z - Responding to REQUEST_PROJECT_GRAPH message
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.570Z - [REQUEST]: Responding to the client. project-graph
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.571Z - Time taken for 'total for creating and serializing project graph' 0.3347000000067055ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.571Z - Done responding to the client project-graph
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.571Z - Handled json message REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX v22.6.5 Daemon Client] - 2026-04-21T17:50:51.571Z - [Messenger] Received message, length: 567108
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:50:51.582Z - Closed a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:59:07.501Z - [WATCHER]: 0 file(s) created or restored, 3 file(s) modified, 0 file(s) deleted
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:59:07.501Z - [SYNC]: clearing sync generators cache due to file changes
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:59:07.502Z - [WATCHER]: Processing file changes in outputs
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:59:07.502Z - Closed a connection. Number of open connections: 0
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:59:07.503Z - [WATCHER]: Stopping the watcher for C:\Users\sabca\GitHub Projects\quote-generator (sources)
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:59:07.503Z - [WATCHER]: Stopping the watcher for C:\Users\sabca\GitHub Projects\quote-generator (outputs)
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:59:07.504Z - [LATEST-NX]: Cleaning up latest Nx installation from C:\Users\sabca\AppData\Local\Temp\tmp-16388-moAdLFZHpyQG
+[NX v22.6.5 Daemon Server] - 2026-04-21T17:59:07.504Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:00:28.573Z - [Client] Starting new daemon server in background
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:00:28.577Z - [Client] Waiting for server (max: 6000 attempts, 10ms interval)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.782Z - New daemon starting from: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server\server.js
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.782Z - New daemon __dirname: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.782Z - New daemon nxVersion: 22.6.5
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.783Z - New daemon getInstalledNxVersion(): 22.6.5
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.784Z - Time taken for 'workspace context init' 0.6536000000000115ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.786Z - [Server] Starting outdated check interval (20ms)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.787Z - Started listening on: \\.\pipe\nx\C:\Users\sabca\AppData\Local\Temp\b875f28041a2074bd5c9\d.sock
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:00:28.788Z - [Client] Server available
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:00:28.788Z - [Client] Daemon server started, pid=23412
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.788Z - [WATCHER]: Subscribed to changes within: C:\Users\sabca\GitHub Projects\quote-generator (native)
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:00:28.788Z - [Messenger] Setting up socket listeners
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:00:28.789Z - [Messenger] listen() complete
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.789Z - [LATEST-NX]: Pulling latest Nx...
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:00:28.789Z - [Messenger] Sending message type: RECORD_OUTPUTS_HASH
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:00:28.789Z - [Messenger] Message sent
+Fetching nx...
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.799Z - [AI-AGENTS]: Starting agent configuration status computation
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.801Z - Established a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.802Z - Established a connection. Number of open connections: 2
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.803Z - Closed a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.804Z - Received raw message of length 82
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.804Z - Received json message of type RECORD_OUTPUTS_HASH
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.804Z - Serializing response for RECORD_OUTPUTS_HASH message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.804Z - Responding to RECORD_OUTPUTS_HASH message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.804Z - [REQUEST]: Responding to the client. recordOutputsHash
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.805Z - Done responding to the client recordOutputsHash
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.805Z - Handled json message RECORD_OUTPUTS_HASH. Handling time: 0. Response time: 1.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:00:28.805Z - [Messenger] Received message, length: 2
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:00:28.808Z - [Messenger] Sending message type: RECORD_TASK_RUNS
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:00:28.808Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.809Z - Received raw message of length 236
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.809Z - Received json message of type RECORD_TASK_RUNS
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.811Z - Serializing response for RECORD_TASK_RUNS message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.811Z - Responding to RECORD_TASK_RUNS message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.811Z - [REQUEST]: Responding to the client. handleRecordTaskRuns
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.812Z - Done responding to the client handleRecordTaskRuns
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.812Z - Handled json message RECORD_TASK_RUNS. Handling time: 2. Response time: 1.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:00:28.812Z - [Messenger] Received message, length: 4
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:00:28.812Z - [Messenger] Sending message type: GET_FLAKY_TASKS
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:00:28.812Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.813Z - Received raw message of length 60
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.813Z - Received json message of type GET_FLAKY_TASKS
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.813Z - Serializing response for GET_FLAKY_TASKS message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.813Z - Responding to GET_FLAKY_TASKS message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.813Z - [REQUEST]: Responding to the client. handleGetFlakyTasks
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.813Z - Done responding to the client handleGetFlakyTasks
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.813Z - Handled json message GET_FLAKY_TASKS. Handling time: 0. Response time: 0.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:00:28.813Z - [Messenger] Received message, length: 2
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.814Z - Established a connection. Number of open connections: 2
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:00:28.814Z - [Messenger] Sending message type: GET_CONFIGURE_AI_AGENTS_STATUS
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.814Z - Closed a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:00:28.814Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.815Z - Received raw message of length 41
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.815Z - Received json message of type GET_CONFIGURE_AI_AGENTS_STATUS
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.815Z - Serializing response for GET_CONFIGURE_AI_AGENTS_STATUS message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.815Z - Responding to GET_CONFIGURE_AI_AGENTS_STATUS message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.815Z - [REQUEST]: Responding to the client. handleGetConfigureAiAgentsStatus
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.815Z - Done responding to the client handleGetConfigureAiAgentsStatus
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.815Z - Handled json message GET_CONFIGURE_AI_AGENTS_STATUS. Handling time: 0. Response time: 0.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:00:28.815Z - [Messenger] Received message, length: 104
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:00:28.817Z - [Messenger] Sending message type: POST_TASKS_EXECUTION
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:00:28.818Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.818Z - Received raw message of length 3263
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.818Z - Received json message of type POST_TASKS_EXECUTION
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.833Z - Time taken for 'loadSpecifiedNxPlugins' 12.175899999999984ms
+Time taken for 'plugin worker 3892 code loading' 121.0477ms
+Time taken for 'plugin worker 7052 code loading' 120.51810000000002ms
+Time taken for 'plugin worker 22172 code loading' 119.24139999999998ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.992Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\js' 169.8506ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.992Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\package-json' 166.0463ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:28.992Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\project-json\build-nodes\project-json' 162.827ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.053Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\project-json\build-nodes\project-json' 232.6127ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.057Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\package-json' 236.8534ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.067Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.067Z - [REQUEST]: 
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.067Z - [REQUEST]: 
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.071Z - Serializing response for POST_TASKS_EXECUTION message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.071Z - Responding to POST_TASKS_EXECUTION message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.071Z - [REQUEST]: Responding to the client. handleRunPostTasksExecution
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.071Z - Time taken for 'postTasksExecution' 248.5979ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.071Z - Time taken for 'loadDefaultNxPlugins' 246.71810000000002ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.071Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\js' 246.5016ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.071Z - Time taken for 'hash changed files from watcher' 0.38829999999995835ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.071Z - Done responding to the client handleRunPostTasksExecution
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.071Z - Handled json message POST_TASKS_EXECUTION. Handling time: 253. Response time: 0.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:00:29.071Z - [Messenger] Received message, length: 4
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.078Z - Closed a connection. Number of open connections: 0
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.105Z - Time taken for 'build-project-configs' 20.618499999999983ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.106Z - Time taken for 'createNodes:merge' 7.104600000000005ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.106Z - Time taken for 'native-file-deps' 0.006100000000003547ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.106Z - Time taken for 'get-workspace-files' 0.25869999999997617ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.106Z - Time taken for 'get-all-workspace-files' 9.424800000000005ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.106Z - Time taken for 'read cache' 0.24689999999998236ms
+Time taken for 'nx/js/dependencies-and-lockfile:createNodes' 7.025199999999984ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.125Z - [SYNC]: collect registered sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.126Z - Time taken for 'total execution time for createProjectGraph()' 25.214500000000044ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.126Z - Time taken for 'createDependencies' 18.59599999999989ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.126Z - Time taken for 'nx/js/dependencies-and-lockfile:createDependencies' 18.45939999999996ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.126Z - Time taken for 'createMetadata' 0.045500000000060936ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:29.126Z - Time taken for 'serialize graph' 1.7974000000000387ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:32.227Z - [LATEST-NX]: Successfully pulled latest Nx to C:\Users\sabca\AppData\Local\Temp\tmp-23412-F9ZUvxPTG6Ie
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:32.363Z - [NX-CONSOLE]: Using local implementation (NX_USE_LOCAL=true or inner call)
+DEBUG nx::native::ide::install: Detected editor: VSCode
+DEBUG nx::native::ide::install: Checking if Nx Console extension is installed with: code.cmd --list-extensions
+DEBUG nx::native::ide::install: Editor command 'code.cmd' is installed
+DEBUG nx::native::ide::install: Editor command 'code-insiders.cmd' not found
+DEBUG nx::native::ide::install: Checking if Nx Console extension is installed with: code.cmd --list-extensions
+DEBUG nx::native::ide::install: Nx Console extension is installed
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:32.647Z - [NX-CONSOLE]: Console status check completed, shouldPrompt: false
+DEBUG nx::native::ide::install: Nx Console extension is installed
+DEBUG nx::native::ide::install: Editor command 'cursor.cmd' not found
+DEBUG nx::native::ide::install: Checking if Nx Console extension is installed with: cursor.cmd --list-extensions
+DEBUG nx::native::ide::install: Command 'cursor.cmd' not found, cannot check extension status
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:00:32.835Z - [AI-AGENTS]: Agent configuration status computation completed: 0 fully configured, 0 outdated, 1 partially configured, 4 non-configured
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:48.335Z - Established a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:48.336Z - Closed a connection. Number of open connections: 0
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:48.336Z - Established a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:48.336Z - Closed a connection. Number of open connections: 0
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:48.337Z - Established a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:02:48.337Z - [Messenger] Setting up socket listeners
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:02:48.337Z - [Messenger] listen() complete
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:02:48.352Z - [Messenger] Sending message type: REQUEST_PROJECT_GRAPH
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:02:48.353Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:49.124Z - Received raw message of length 32
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:49.124Z - Received json message of type REQUEST_PROJECT_GRAPH
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:49.124Z - [REQUEST]: Client Request for Project Graph Received
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:49.124Z - Reusing in-memory cached project graph because no files changed.
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:49.129Z - Wrote project graph cache to C:\Users\sabca\GitHub Projects\quote-generator\.nx\workspace-data\project-graph.json
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:49.129Z - Serializing response for REQUEST_PROJECT_GRAPH message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:49.129Z - Responding to REQUEST_PROJECT_GRAPH message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:49.129Z - [REQUEST]: Responding to the client. project-graph
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:49.130Z - Time taken for 'total for creating and serializing project graph' 5.39079999999376ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:49.130Z - Time taken for 'write cache' 4.805099999997765ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:49.131Z - Done responding to the client project-graph
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:49.131Z - Handled json message REQUEST_PROJECT_GRAPH. Handling time: 5. Response time: 2.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:02:49.132Z - [Messenger] Received message, length: 567359
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:02:49.134Z - [Messenger] Sending message type: GET_CONTEXT_FILE_DATA
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:02:49.134Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:49.134Z - Received raw message of length 32
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:49.134Z - Received json message of type GET_CONTEXT_FILE_DATA
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:49.135Z - Serializing response for GET_CONTEXT_FILE_DATA message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:49.135Z - Responding to GET_CONTEXT_FILE_DATA message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:49.135Z - [REQUEST]: Responding to the client. handleContextFileData
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:49.135Z - Done responding to the client handleContextFileData
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:49.135Z - Handled json message GET_CONTEXT_FILE_DATA. Handling time: 1. Response time: 0.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:02:49.135Z - [Messenger] Received message, length: 1363
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:56.303Z - Established a connection. Number of open connections: 2
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:02:56.304Z - [Messenger] Setting up socket listeners
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:56.304Z - Closed a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:02:56.304Z - [Messenger] listen() complete
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:02:56.304Z - [Messenger] Sending message type: REGISTER_PROJECT_GRAPH_LISTENER
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:02:56.304Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:56.305Z - Established a connection. Number of open connections: 2
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:56.305Z - Received raw message of length 42
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:02:56.305Z - Received json message of type REGISTER_PROJECT_GRAPH_LISTENER
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:04:22.482Z - [Messenger] Sending message type: GET_CONFIGURE_AI_AGENTS_STATUS
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:04:22.482Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:04:22.483Z - Received raw message of length 41
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:04:22.483Z - Received json message of type GET_CONFIGURE_AI_AGENTS_STATUS
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:04:22.483Z - [AI-AGENTS]: Returning cached agent configuration status
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:04:22.483Z - Serializing response for GET_CONFIGURE_AI_AGENTS_STATUS message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:04:22.483Z - Responding to GET_CONFIGURE_AI_AGENTS_STATUS message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:04:22.483Z - [REQUEST]: Responding to the client. handleGetConfigureAiAgentsStatus
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:04:22.483Z - Done responding to the client handleGetConfigureAiAgentsStatus
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:04:22.483Z - Handled json message GET_CONFIGURE_AI_AGENTS_STATUS. Handling time: 0. Response time: 0.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:04:22.483Z - [Messenger] Received message, length: 341
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:10.558Z - [Server] lock file hash changed! old=5932247456005366826, new=8072267364384573255
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:10.559Z - [Server] Daemon outdated: LOCK_FILES_CHANGED
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:10.560Z - [Server] Restarting daemon...
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:10.568Z - Restarting daemon with script: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server\start.js
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:10.569Z - Old daemon __dirname: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:10.569Z - Current process.execPath: C:\Program Files\nodejs\node.exe
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:10.579Z - Started new daemon process in background
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:22:10.583Z - [ProjectGraphListener] Socket closed, triggering reconnection
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:22:10.584Z - [ProjectGraphListener] Starting reconnection for 1 callbacks
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:22:10.585Z - [Client] Waiting for server (max: 6000 attempts, 10ms interval)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:10.587Z - [WATCHER]: Stopping the watcher for C:\Users\sabca\GitHub Projects\quote-generator (sources)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:10.587Z - Closed a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:10.587Z - Closed a connection. Number of open connections: 0
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:10.588Z - [WATCHER]: Stopping the watcher for C:\Users\sabca\GitHub Projects\quote-generator (sources)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:10.588Z - [WATCHER]: Stopping the watcher for C:\Users\sabca\GitHub Projects\quote-generator (outputs)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:10.596Z - [LATEST-NX]: Cleaning up latest Nx installation from C:\Users\sabca\AppData\Local\Temp\tmp-23412-F9ZUvxPTG6Ie
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:10.597Z - Server stopped because: "LOCK_FILES_CHANGED"
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.010Z - New daemon starting from: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server\server.js
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.015Z - New daemon __dirname: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.015Z - New daemon nxVersion: 22.6.5
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.015Z - New daemon getInstalledNxVersion(): 22.6.5
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.017Z - Time taken for 'workspace context init' 1.792599999999993ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.020Z - [Server] Starting outdated check interval (20ms)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.023Z - Started listening on: \\.\pipe\nx\C:\Users\sabca\AppData\Local\Temp\a5bbad558bce8d5ea84d\d.sock
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.024Z - [WATCHER]: Subscribed to changes within: C:\Users\sabca\GitHub Projects\quote-generator (native)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.024Z - [LATEST-NX]: Pulling latest Nx...
+Fetching nx...
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:22:11.028Z - [Client] Server available
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:22:11.028Z - [Messenger] Setting up socket listeners
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:22:11.028Z - [Messenger] listen() complete
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:22:11.028Z - [Messenger] Sending message type: REGISTER_PROJECT_GRAPH_LISTENER
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:22:11.029Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:22:11.029Z - [ProjectGraphListener] Reconnected successfully
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.037Z - [AI-AGENTS]: Starting agent configuration status computation
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.038Z - Established a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.038Z - Established a connection. Number of open connections: 2
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.039Z - Closed a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.040Z - Received raw message of length 42
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.040Z - Received json message of type REGISTER_PROJECT_GRAPH_LISTENER
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.151Z - Time taken for 'loadSpecifiedNxPlugins' 17.631200000000035ms
+Time taken for 'plugin worker 8340 code loading' 139.77939999999998ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.313Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\js' 179.11559999999997ms
+Time taken for 'plugin worker 20944 code loading' 139.7138ms
+Time taken for 'plugin worker 2208 code loading' 139.85410000000002ms
+Time taken for 'plugin worker 20324 code loading' 140.46349999999998ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.325Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\adapter\angular-json' 186.0990999999999ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.325Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\package-json' 182.25189999999998ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.325Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\project-json\build-nodes\project-json' 178.28570000000002ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.394Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\project-json\build-nodes\project-json' 261.59759999999994ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.396Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\adapter\angular-json' 264.0255000000001ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.398Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\package-json' 265.39699999999993ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.406Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.406Z - [REQUEST]: 
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.406Z - [REQUEST]: 
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.410Z - Time taken for 'loadDefaultNxPlugins' 275.7180000000001ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.410Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\js' 274.0842ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.410Z - Time taken for 'hash changed files from watcher' 0.3571000000000595ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.448Z - Time taken for 'build-project-configs' 19.52940000000001ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.448Z - Time taken for 'createNodes:merge' 6.587599999999952ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.448Z - Time taken for 'native-file-deps' 0.006500000000073669ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.448Z - Time taken for 'get-workspace-files' 0.6496999999999389ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.448Z - Time taken for 'get-all-workspace-files' 15.191599999999994ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.448Z - Time taken for 'read cache' 0.43410000000005766ms
+Time taken for 'nx/js/dependencies-and-lockfile:createNodes' 7.742200000000025ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.467Z - [SYNC]: collect registered sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.467Z - Serializing response for PROJECT_GRAPH_UPDATED message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.468Z - Responding to PROJECT_GRAPH_UPDATED message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.468Z - [REQUEST]: Responding to the client. Project graph updated
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.468Z - Time taken for 'total execution time for createProjectGraph()' 23.15440000000001ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.468Z - Time taken for 'createDependencies' 18.701299999999947ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.468Z - Time taken for 'nx/js/dependencies-and-lockfile:createDependencies' 18.575300000000084ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.468Z - Time taken for 'createMetadata' 0.02909999999997126ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.468Z - Time taken for 'serialize graph' 0.44060000000001764ms
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:22:11.468Z - [Messenger] Received message, length: 216329
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.469Z - Done responding to the client Project graph updated
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:11.469Z - Handled json message PROJECT_GRAPH_UPDATED. Handling time: 0. Response time: 2.
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:12.824Z - Closed a connection. Number of open connections: 0
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:18.006Z - [LATEST-NX]: Successfully pulled latest Nx to C:\Users\sabca\AppData\Local\Temp\tmp-27732-a9TMM6DVKfgg
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:18.150Z - [NX-CONSOLE]: Using local implementation (NX_USE_LOCAL=true or inner call)
+DEBUG nx::native::ide::install: Detected editor: VSCode
+DEBUG nx::native::ide::install: Checking if Nx Console extension is installed with: code.cmd --list-extensions
+DEBUG nx::native::ide::install: Editor command 'code.cmd' is installed
+DEBUG nx::native::ide::install: Editor command 'code-insiders.cmd' not found
+DEBUG nx::native::ide::install: Checking if Nx Console extension is installed with: code.cmd --list-extensions
+DEBUG nx::native::ide::install: Nx Console extension is installed
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:18.458Z - [NX-CONSOLE]: Console status check completed, shouldPrompt: false
+DEBUG nx::native::ide::install: Nx Console extension is installed
+DEBUG nx::native::ide::install: Editor command 'cursor.cmd' not found
+DEBUG nx::native::ide::install: Checking if Nx Console extension is installed with: cursor.cmd --list-extensions
+DEBUG nx::native::ide::install: Command 'cursor.cmd' not found, cannot check extension status
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:22:18.617Z - [AI-AGENTS]: Agent configuration status computation completed: 0 fully configured, 0 outdated, 1 partially configured, 4 non-configured
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:01.591Z - [Server] lock file hash changed! old=8072267364384573255, new=17938926817805723102
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:01.591Z - [Server] Daemon outdated: LOCK_FILES_CHANGED
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:01.591Z - [Server] Restarting daemon...
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:01.592Z - Restarting daemon with script: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server\start.js
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:01.592Z - Old daemon __dirname: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:01.592Z - Current process.execPath: C:\Program Files\nodejs\node.exe
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:01.596Z - Started new daemon process in background
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:01.596Z - [WATCHER]: Stopping the watcher for C:\Users\sabca\GitHub Projects\quote-generator (sources)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:01.596Z - [WATCHER]: Stopping the watcher for C:\Users\sabca\GitHub Projects\quote-generator (outputs)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:01.596Z - [LATEST-NX]: Cleaning up latest Nx installation from C:\Users\sabca\AppData\Local\Temp\tmp-27732-a9TMM6DVKfgg
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:01.597Z - Server stopped because: "LOCK_FILES_CHANGED"
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:01.820Z - New daemon starting from: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server\server.js
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:01.821Z - New daemon __dirname: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:01.821Z - New daemon nxVersion: 22.6.5
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:01.821Z - New daemon getInstalledNxVersion(): 22.6.5
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:01.822Z - Time taken for 'workspace context init' 0.6731000000000051ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:01.823Z - [Server] Starting outdated check interval (20ms)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:01.824Z - Started listening on: \\.\pipe\nx\C:\Users\sabca\AppData\Local\Temp\01a7d3e3ae6a4c7df9a2\d.sock
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:01.825Z - [WATCHER]: Subscribed to changes within: C:\Users\sabca\GitHub Projects\quote-generator (native)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:01.826Z - [LATEST-NX]: Pulling latest Nx...
+Fetching nx...
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:01.838Z - [AI-AGENTS]: Starting agent configuration status computation
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:01.956Z - Time taken for 'loadSpecifiedNxPlugins' 18.80649999999997ms
+Time taken for 'plugin worker 5152 code loading' 132.5068ms
+Time taken for 'plugin worker 16820 code loading' 138.2741ms
+Time taken for 'plugin worker 23676 code loading' 133.1345ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.122Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\js' 183.80610000000001ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.122Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\adapter\angular-json' 179.70979999999997ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.122Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\package-json' 176.69699999999995ms
+Time taken for 'plugin worker 7280 code loading' 133.1791ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.138Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\project-json\build-nodes\project-json' 187.73699999999997ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.190Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\adapter\angular-json' 254.99989999999997ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.192Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\package-json' 256.69629999999995ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.204Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\js' 269.2525ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.207Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.207Z - [REQUEST]: 
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.207Z - [REQUEST]: 
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.212Z - Time taken for 'loadDefaultNxPlugins' 273.3404ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.212Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\project-json\build-nodes\project-json' 270.99010000000004ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.212Z - Time taken for 'hash changed files from watcher' 0.07530000000008386ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.241Z - Time taken for 'build-project-configs' 21.24630000000002ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.241Z - Time taken for 'createNodes:merge' 4.191799999999944ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.241Z - Time taken for 'native-file-deps' 0.0039000000000442014ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.241Z - Time taken for 'get-workspace-files' 0.23550000000000182ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.241Z - Time taken for 'get-all-workspace-files' 6.642100000000028ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.242Z - Time taken for 'read cache' 0.33749999999997726ms
+Time taken for 'nx/js/dependencies-and-lockfile:createNodes' 10.935000000000002ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.262Z - [SYNC]: collect registered sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.262Z - Time taken for 'total execution time for createProjectGraph()' 24.106199999999944ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.263Z - Time taken for 'createDependencies' 20.062200000000075ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.263Z - Time taken for 'nx/js/dependencies-and-lockfile:createDependencies' 19.93999999999994ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.263Z - Time taken for 'createMetadata' 0.07090000000005148ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:02.263Z - Time taken for 'serialize graph' 0.6042999999999665ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:05.196Z - [LATEST-NX]: Successfully pulled latest Nx to C:\Users\sabca\AppData\Local\Temp\tmp-9308-4sE8fhqgemC4
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:05.328Z - [NX-CONSOLE]: Using local implementation (NX_USE_LOCAL=true or inner call)
+DEBUG nx::native::ide::install: Detected editor: VSCode
+DEBUG nx::native::ide::install: Checking if Nx Console extension is installed with: code.cmd --list-extensions
+DEBUG nx::native::ide::install: Editor command 'code.cmd' is installed
+DEBUG nx::native::ide::install: Editor command 'code-insiders.cmd' not found
+DEBUG nx::native::ide::install: Checking if Nx Console extension is installed with: code.cmd --list-extensions
+DEBUG nx::native::ide::install: Nx Console extension is installed
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:05.605Z - [NX-CONSOLE]: Console status check completed, shouldPrompt: false
+DEBUG nx::native::ide::install: Nx Console extension is installed
+DEBUG nx::native::ide::install: Editor command 'cursor.cmd' not found
+DEBUG nx::native::ide::install: Checking if Nx Console extension is installed with: cursor.cmd --list-extensions
+DEBUG nx::native::ide::install: Command 'cursor.cmd' not found, cannot check extension status
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:23:05.780Z - [AI-AGENTS]: Agent configuration status computation completed: 0 fully configured, 0 outdated, 1 partially configured, 4 non-configured
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.531Z - [Server] lock file hash changed! old=17938926817805723102, new=17717660401523030813
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.531Z - [Server] Daemon outdated: LOCK_FILES_CHANGED
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.531Z - [Server] Restarting daemon...
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.532Z - Restarting daemon with script: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server\start.js
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.532Z - Old daemon __dirname: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.532Z - Current process.execPath: C:\Program Files\nodejs\node.exe
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.535Z - Started new daemon process in background
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.535Z - [WATCHER]: Stopping the watcher for C:\Users\sabca\GitHub Projects\quote-generator (sources)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.535Z - [WATCHER]: Stopping the watcher for C:\Users\sabca\GitHub Projects\quote-generator (outputs)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.536Z - [LATEST-NX]: Cleaning up latest Nx installation from C:\Users\sabca\AppData\Local\Temp\tmp-9308-4sE8fhqgemC4
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.536Z - Server stopped because: "LOCK_FILES_CHANGED"
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.748Z - New daemon starting from: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server\server.js
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.748Z - New daemon __dirname: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.748Z - New daemon nxVersion: 22.6.5
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.749Z - New daemon getInstalledNxVersion(): 22.6.5
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.750Z - Time taken for 'workspace context init' 0.6813999999999965ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.751Z - [Server] Starting outdated check interval (20ms)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.752Z - Started listening on: \\.\pipe\nx\C:\Users\sabca\AppData\Local\Temp\7ca7b5a544b240182c78\d.sock
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.753Z - [WATCHER]: Subscribed to changes within: C:\Users\sabca\GitHub Projects\quote-generator (native)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.753Z - [LATEST-NX]: Pulling latest Nx...
+Fetching nx...
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.758Z - [AI-AGENTS]: Starting agent configuration status computation
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.758Z - [NX-CONSOLE]: Failed to use latest Nx for console status. Error: InvalidSymbol in C:\Users\sabca\GitHub Projects\quote-generator\package.json at 6:1
+[0m [90m 4 | [39m  "scripts": {
+ [90m 5 | [39m    "ng": "ng",
+[31m[1m>[22m[39m[90m 6 | [39m<<<<<<< Updated upstream
+ [90m   | [39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 7 | [39m    "start": "ng serve",
+ [90m 8 | [39m    "build": "ng build",
+ [90m 9 | [39m    "watch": "ng build --watch --configuration development",[0m
+
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.758Z - [AI-AGENTS]: Failed to compute agent configuration status from latest Nx. Error: InvalidSymbol in C:\Users\sabca\GitHub Projects\quote-generator\package.json at 6:1
+[0m [90m 4 | [39m  "scripts": {
+ [90m 5 | [39m    "ng": "ng",
+[31m[1m>[22m[39m[90m 6 | [39m<<<<<<< Updated upstream
+ [90m   | [39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 7 | [39m    "start": "ng serve",
+ [90m 8 | [39m    "build": "ng build",
+ [90m 9 | [39m    "watch": "ng build --watch --configuration development",[0m
+
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.758Z - [AI-AGENTS]: Agent configuration status computation completed: 0 fully configured, 0 outdated, 0 partially configured, 0 non-configured
+DEBUG nx::native::ide::install: Detected editor: VSCode
+DEBUG nx::native::ide::install: Checking if Nx Console extension is installed with: code.cmd --list-extensions
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:52.878Z - Time taken for 'loadSpecifiedNxPlugins' 17.66579999999999ms
+Time taken for 'plugin worker 16496 code loading' 125.5235ms
+Time taken for 'plugin worker 23500 code loading' 127.05610000000001ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:53.028Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\js' 166.8619ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:53.028Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\adapter\angular-json' 161.85690000000005ms
+Time taken for 'plugin worker 3756 code loading' 127.94740000000002ms
+Time taken for 'plugin worker 8340 code loading' 129.0626ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:53.044Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\package-json' 174.87039999999996ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:53.044Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\project-json\build-nodes\project-json' 171.86419999999998ms
+DEBUG nx::native::ide::install: Nx Console extension is installed
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:53.087Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\adapter\angular-json' 228.0784ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:53.097Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\js' 238.3877ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:53.101Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\project-json\build-nodes\project-json' 241.94720000000007ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:53.103Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:53.103Z - [REQUEST]: 
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:53.104Z - [REQUEST]: 
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:53.109Z - Time taken for 'loadDefaultNxPlugins' 245.6006ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:53.109Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\package-json' 244.03650000000005ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:53.109Z - Time taken for 'hash changed files from watcher' 0.08159999999998035ms
+Time taken for 'nx/js/dependencies-and-lockfile:createNodes' 2.3196000000000083ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:53.124Z - Error detected when creating a project graph: InvalidSymbol in C:\Users\sabca\GitHub Projects\quote-generator\package.json at 6:1
+[0m [90m 4 | [39m  "scripts": {
+ [90m 5 | [39m    "ng": "ng",
+[31m[1m>[22m[39m[90m 6 | [39m<<<<<<< Updated upstream
+ [90m   | [39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 7 | [39m    "start": "ng serve",
+ [90m 8 | [39m    "build": "ng build",
+ [90m 9 | [39m    "watch": "ng build --watch --configuration development",[0m
+
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:53.125Z - Time taken for 'build-project-configs' 11.424200000000042ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:53.125Z - Time taken for 'createNodes:merge' 3.901299999999992ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:53.125Z - Time taken for 'native-file-deps' 0.004099999999993997ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:53.125Z - Time taken for 'get-workspace-files' 0.2340000000000373ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:53.125Z - Time taken for 'get-all-workspace-files' 6.29239999999993ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:24:53.125Z - Time taken for 'read cache' 0.24699999999995725ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:27:43.897Z - [WATCHER]: Processing file changes in outputs
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:27:43.897Z - [WATCHER]: package.json was modified
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:27:43.897Z - [SYNC]: clearing sync generators cache due to file changes
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:27:44.113Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:27:44.113Z - [REQUEST]: package.json
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:27:44.113Z - [REQUEST]: 
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:27:44.130Z - Time taken for 'hash changed files from watcher' 0.4365999999863561ms
+
+[7m[1m[31m NX [39m[22m[27m  [31mFailed to parse npm lockfile[39m
+
+Please open an issue at `https://github.com/nrwl/nx/issues/new?template=1-bug.yml` and provide a reproduction.
+
+Original error: Expected property name or '}' in JSON at position 641 (line 24 column 1)
+
+
+SyntaxError: Expected property name or '}' in JSON at position 641 (line 24 column 1)
+    at JSON.parse (<anonymous>)
+    at parsePackageLockFile (C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\js\lock-file\npm-parser.js:20:26)
+    at getNpmLockfileNodes (C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\js\lock-file\npm-parser.js:26:18)
+    at getLockFileNodes (C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\js\lock-file\lock-file.js:56:57)
+    at internalCreateNodes (C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\js\index.js:53:79)
+    at C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\project-graph\plugins\utils.js:10:33
+    at Array.map (<anonymous>)
+    at createNodesFromFiles (C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\project-graph\plugins\utils.js:8:35)
+    at exports.createNodesV2 (C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\js\index.js:27:51)
+    at LoadedNxPlugin.createNodes (C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\project-graph\plugins\loaded-nx-plugin.js:27:62)
+
+Time taken for 'nx/js/dependencies-and-lockfile:createNodes' 4.933699999994133ms
+Time taken for 'plugin worker 17540 code loading' 119.0237ms
+Time taken for 'plugin worker 19708 code loading' 120.8137ms
+Time taken for 'plugin worker 26260 code loading' 117.40549999999999ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:27:44.283Z - Time taken for 'start-plugin-worker:nx-angular-json-plugin' 169.17389999999432ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:27:44.283Z - Time taken for 'start-plugin-worker:nx/core/package-json' 162.95489999998244ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:27:44.283Z - Time taken for 'start-plugin-worker:nx/core/project-json' 157.96410000001197ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:27:44.349Z - Time taken for 'build-project-configs' 233.61620000001858ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:27:44.349Z - Time taken for 'createNodes:merge' 1.3260999999765772ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:27:44.349Z - Time taken for 'native-file-deps' 0.0029999999969732016ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:27:44.349Z - Time taken for 'get-workspace-files' 0.1900000000023283ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:27:44.349Z - Time taken for 'get-all-workspace-files' 0.01640000002225861ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:27:44.349Z - Time taken for 'read cache' 0.1419000000169035ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:27:44.514Z - Time taken for 'total execution time for createProjectGraph()' 166.0899999999965ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:27:44.514Z - Time taken for 'createDependencies' 164.39400000000023ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:27:44.514Z - Time taken for 'nx/js/dependencies-and-lockfile:createDependencies' 164.2889000000141ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:27:44.514Z - Time taken for 'createMetadata' 0.027399999991757795ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:27:44.514Z - Time taken for 'serialize graph' 0.04000000000814907ms
+Time taken for 'build typescript dependencies' 162.97260000000824ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:45.703Z - [Server] lock file hash changed! old=17717660401523030813, new=6051535925978519531
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:45.703Z - [Server] Daemon outdated: LOCK_FILES_CHANGED
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:45.704Z - [Server] Restarting daemon...
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:45.705Z - Restarting daemon with script: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server\start.js
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:45.705Z - Old daemon __dirname: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:45.705Z - Current process.execPath: C:\Program Files\nodejs\node.exe
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:45.708Z - Started new daemon process in background
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:45.709Z - [WATCHER]: Stopping the watcher for C:\Users\sabca\GitHub Projects\quote-generator (sources)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:45.709Z - [WATCHER]: Stopping the watcher for C:\Users\sabca\GitHub Projects\quote-generator (outputs)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:45.709Z - Server stopped because: "LOCK_FILES_CHANGED"
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:45.899Z - New daemon starting from: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server\server.js
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:45.900Z - New daemon __dirname: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:45.900Z - New daemon nxVersion: 22.6.5
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:45.900Z - New daemon getInstalledNxVersion(): 22.6.5
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:45.901Z - Time taken for 'workspace context init' 0.6885999999999797ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:45.902Z - [Server] Starting outdated check interval (20ms)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:45.903Z - Started listening on: \\.\pipe\nx\C:\Users\sabca\AppData\Local\Temp\7ce0dbf1d2f6c92929c1\d.sock
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:45.904Z - [WATCHER]: Subscribed to changes within: C:\Users\sabca\GitHub Projects\quote-generator (native)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:45.905Z - [LATEST-NX]: Pulling latest Nx...
+Fetching nx...
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:45.915Z - [AI-AGENTS]: Starting agent configuration status computation
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.034Z - Time taken for 'loadSpecifiedNxPlugins' 17.794600000000003ms
+Time taken for 'plugin worker 5316 code loading' 136.6013ms
+Time taken for 'plugin worker 24124 code loading' 136.2375ms
+Time taken for 'plugin worker 29492 code loading' 134.4343ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.197Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\js' 179.37369999999999ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.197Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\adapter\angular-json' 175.73860000000002ms
+Time taken for 'plugin worker 27692 code loading' 139.5762ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.210Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\package-json' 184.1572ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.210Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\project-json\build-nodes\project-json' 180.4685ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.268Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\adapter\angular-json' 252.25440000000003ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.280Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\project-json\build-nodes\project-json' 263.51160000000004ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.280Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\js' 265.2259ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.281Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.281Z - [REQUEST]: 
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.282Z - [REQUEST]: 
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.285Z - Time taken for 'loadDefaultNxPlugins' 266.71669999999995ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.285Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\package-json' 265.2746ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.285Z - Time taken for 'hash changed files from watcher' 0.10700000000008458ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.328Z - Time taken for 'build-project-configs' 30.034200000000055ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.328Z - Time taken for 'createNodes:merge' 6.292699999999968ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.328Z - Time taken for 'native-file-deps' 0.007000000000061846ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.328Z - Time taken for 'get-workspace-files' 0.27480000000002747ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.328Z - Time taken for 'get-all-workspace-files' 9.057900000000018ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.328Z - Time taken for 'read cache' 0.241800000000012ms
+Time taken for 'nx/js/dependencies-and-lockfile:createNodes' 16.043799999999976ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.379Z - [SYNC]: collect registered sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.380Z - Time taken for 'total execution time for createProjectGraph()' 55.36659999999995ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.380Z - Time taken for 'createDependencies' 50.446399999999926ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.380Z - Time taken for 'nx/js/dependencies-and-lockfile:createDependencies' 50.302400000000034ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.380Z - Time taken for 'createMetadata' 0.027100000000018554ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:46.380Z - Time taken for 'serialize graph' 1.239500000000021ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:52.952Z - [LATEST-NX]: Successfully pulled latest Nx to C:\Users\sabca\AppData\Local\Temp\tmp-16688-bwcWjzEa0Dk6
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:53.088Z - [NX-CONSOLE]: Using local implementation (NX_USE_LOCAL=true or inner call)
+DEBUG nx::native::ide::install: Detected editor: VSCode
+DEBUG nx::native::ide::install: Checking if Nx Console extension is installed with: code.cmd --list-extensions
+DEBUG nx::native::ide::install: Editor command 'code.cmd' is installed
+DEBUG nx::native::ide::install: Editor command 'code-insiders.cmd' not found
+DEBUG nx::native::ide::install: Checking if Nx Console extension is installed with: code.cmd --list-extensions
+DEBUG nx::native::ide::install: Nx Console extension is installed
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:53.368Z - [NX-CONSOLE]: Console status check completed, shouldPrompt: false
+DEBUG nx::native::ide::install: Nx Console extension is installed
+DEBUG nx::native::ide::install: Editor command 'cursor.cmd' not found
+DEBUG nx::native::ide::install: Checking if Nx Console extension is installed with: cursor.cmd --list-extensions
+DEBUG nx::native::ide::install: Command 'cursor.cmd' not found, cannot check extension status
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:29:53.555Z - [AI-AGENTS]: Agent configuration status computation completed: 0 fully configured, 0 outdated, 1 partially configured, 4 non-configured
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:01.486Z - [WATCHER]: Processing file changes in outputs
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:01.487Z - [WATCHER]: angular.json was deleted
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:01.487Z - [SYNC]: clearing sync generators cache due to file changes
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:01.688Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:01.688Z - [REQUEST]: 
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:01.688Z - [REQUEST]: angular.json
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:01.708Z - Time taken for 'hash changed files from watcher' 0.08799999999973807ms
+Time taken for 'plugin worker 25908 code loading' 126.9348ms
+Time taken for 'plugin worker 29372 code loading' 119.86350000000002ms
+Time taken for 'plugin worker 9000 code loading' 122.6575ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:01.859Z - Time taken for 'start-plugin-worker:nx/js/dependencies-and-lockfile' 168.9452000000001ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:01.859Z - Time taken for 'start-plugin-worker:nx-angular-json-plugin' 164.28850000000057ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:01.859Z - Time taken for 'start-plugin-worker:nx/core/package-json' 160.70889999999963ms
+Time taken for 'plugin worker 28720 code loading' 120.001ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:01.875Z - Time taken for 'start-plugin-worker:nx/core/project-json' 171.35599999999977ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:01.955Z - Time taken for 'build-project-configs' 261.9336000000003ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:01.955Z - Time taken for 'createNodes:merge' 0.8013999999984662ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:01.955Z - Time taken for 'native-file-deps' 0.006199999999807915ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:01.955Z - Time taken for 'get-workspace-files' 0.2532999999984895ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:01.955Z - Time taken for 'get-all-workspace-files' 0.01840000000083819ms
+Time taken for 'nx/js/dependencies-and-lockfile:createNodes' 6.148400000000009ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:01.968Z - Time taken for 'total execution time for createProjectGraph()' 15.109399999999368ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:01.968Z - Time taken for 'createDependencies' 12.471700000000055ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:01.968Z - Time taken for 'nx/js/dependencies-and-lockfile:createDependencies' 12.389099999998507ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:01.968Z - Time taken for 'createMetadata' 0.02049999999871943ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:01.968Z - Time taken for 'serialize graph' 1.358299999999872ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:21.537Z - Established a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:21.537Z - Closed a connection. Number of open connections: 0
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:21.537Z - Established a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:21.538Z - Closed a connection. Number of open connections: 0
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:21.538Z - Established a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:21.538Z - [Messenger] Setting up socket listeners
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:21.539Z - [Messenger] listen() complete
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:21.540Z - [Messenger] Sending message type: GET_NX_CONSOLE_STATUS
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:21.540Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:21.723Z - Received raw message of length 32
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:21.723Z - Received json message of type GET_NX_CONSOLE_STATUS
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:21.723Z - Serializing response for GET_NX_CONSOLE_STATUS message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:21.723Z - Responding to GET_NX_CONSOLE_STATUS message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:21.723Z - [REQUEST]: Responding to the client. handleGetNxConsoleStatus
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:21.723Z - Done responding to the client handleGetNxConsoleStatus
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:21.723Z - Handled json message GET_NX_CONSOLE_STATUS. Handling time: 0. Response time: 0.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:21.725Z - [Messenger] Received message, length: 22
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:21.754Z - [Messenger] Sending message type: REQUEST_PROJECT_GRAPH
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:21.754Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:21.754Z - Received raw message of length 32
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:21.754Z - Received json message of type REQUEST_PROJECT_GRAPH
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:21.754Z - [REQUEST]: Client Request for Project Graph Received
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:21.754Z - Reusing in-memory cached project graph because no files changed.
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:21.755Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Failed to process project graph.
+     - Error: ENOENT: no such file or directory, open 'C:\Users\sabca\GitHub Projects\quote-generator\angular.json'
+      at readFileSync (node:fs:440:20)
+      at readJsonFile (C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\utils\fileutils.js:27:48)
+      at readAngularJson (C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\adapter\angular-json.js:54:53)
+      at Array.createNodes (C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\adapter\angular-json.js:19:27)
+      at LoadedNxPlugin.createNodes (C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\project-graph\plugins\loaded-nx-plugin.js:27:62)
+      at LoadedNxPlugin.createNodes.<computed> (C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\project-graph\plugins\loaded-nx-plugin.js:42:42)
+      at createNodes (C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\project-graph\plugins\isolation\plugin-worker.js:75:63)
+      at consumeMessage (C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\project-graph\plugins\isolation\messaging.js:57:33)
+      at C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\project-graph\plugins\isolation\plugin-worker.js:40:47
+      at Socket.<anonymous> (C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\utils\consume-messages-from-socket.js:25:21)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:21.758Z - Done responding to the client null
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:21.758Z - Handled json message REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 4.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:21.759Z - [Messenger] Received message, length: 574438
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:21.761Z - Closed a connection. Number of open connections: 0
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:47.829Z - [WATCHER]: angular.json was created or restored
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:47.829Z - [SYNC]: clearing sync generators cache due to file changes
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:47.829Z - [WATCHER]: Processing file changes in outputs
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:47.938Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:47.938Z - [REQUEST]: angular.json
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:47.938Z - [REQUEST]: 
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:47.954Z - Time taken for 'hash changed files from watcher' 0.1224000000001979ms
+Time taken for 'plugin worker 11416 code loading' 126.98809999999999ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:48.107Z - Time taken for 'start-plugin-worker:nx-angular-json-plugin' 162.98159999999916ms
+Time taken for 'plugin worker 18892 code loading' 133.2877ms
+Time taken for 'plugin worker 16576 code loading' 129.96009999999998ms
+Time taken for 'plugin worker 27840 code loading' 127.0919ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:48.125Z - Time taken for 'start-plugin-worker:nx/js/dependencies-and-lockfile' 186.04720000000088ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:48.125Z - Time taken for 'start-plugin-worker:nx/core/package-json' 177.32620000000315ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:48.125Z - Time taken for 'start-plugin-worker:nx/core/project-json' 174.46100000000297ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:48.210Z - Time taken for 'build-project-configs' 267.02700000000186ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:48.210Z - Time taken for 'createNodes:merge' 1.2862000000022817ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:48.210Z - Time taken for 'native-file-deps' 0.008099999999103602ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:48.210Z - Time taken for 'get-workspace-files' 0.34249999999883585ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:48.210Z - Time taken for 'get-all-workspace-files' 0.023600000000442378ms
+Time taken for 'nx/js/dependencies-and-lockfile:createNodes' 7.422499999999985ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:48.230Z - [SYNC]: collect registered sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:48.230Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:48.230Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:48.230Z - Time taken for 'total execution time for createProjectGraph()' 22.726300000002084ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:48.230Z - Time taken for 'createDependencies' 19.99550000000454ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:48.230Z - Time taken for 'nx/js/dependencies-and-lockfile:createDependencies' 19.914700000001176ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:48.231Z - Time taken for 'createMetadata' 0.029199999997217674ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:48.231Z - Time taken for 'serialize graph' 1.4094999999942956ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.650Z - Established a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.650Z - Closed a connection. Number of open connections: 0
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.650Z - Established a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.650Z - Closed a connection. Number of open connections: 0
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.651Z - Established a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:53.650Z - [Messenger] Setting up socket listeners
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:53.651Z - [Messenger] listen() complete
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:53.651Z - [Messenger] Sending message type: GET_NX_CONSOLE_STATUS
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:53.652Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.779Z - Received raw message of length 32
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.779Z - Received json message of type GET_NX_CONSOLE_STATUS
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.779Z - Serializing response for GET_NX_CONSOLE_STATUS message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.779Z - Responding to GET_NX_CONSOLE_STATUS message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.779Z - [REQUEST]: Responding to the client. handleGetNxConsoleStatus
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.779Z - Done responding to the client handleGetNxConsoleStatus
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.779Z - Handled json message GET_NX_CONSOLE_STATUS. Handling time: 0. Response time: 0.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:53.779Z - [Messenger] Received message, length: 22
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:53.803Z - [Messenger] Sending message type: REQUEST_PROJECT_GRAPH
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:53.803Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.806Z - Received raw message of length 32
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.806Z - Received json message of type REQUEST_PROJECT_GRAPH
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.806Z - [REQUEST]: Client Request for Project Graph Received
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.806Z - Reusing in-memory cached project graph because no files changed.
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.811Z - Wrote project graph cache to C:\Users\sabca\GitHub Projects\quote-generator\.nx\workspace-data\project-graph.json
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.812Z - Serializing response for REQUEST_PROJECT_GRAPH message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.812Z - Responding to REQUEST_PROJECT_GRAPH message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.812Z - [REQUEST]: Responding to the client. project-graph
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.812Z - Time taken for 'total for creating and serializing project graph' 5.585700000010547ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.812Z - Time taken for 'write cache' 4.953900000007707ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.813Z - Done responding to the client project-graph
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.813Z - Handled json message REQUEST_PROJECT_GRAPH. Handling time: 6. Response time: 1.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:53.813Z - [Messenger] Received message, length: 570391
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:53.816Z - [Messenger] Sending message type: PRE_TASKS_EXECUTION
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:53.816Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.817Z - Received raw message of length 705
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.817Z - Received json message of type PRE_TASKS_EXECUTION
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.818Z - Serializing response for PRE_TASKS_EXECUTION message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.818Z - Responding to PRE_TASKS_EXECUTION message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.818Z - [REQUEST]: Responding to the client. handleRunPreTasksExecution
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.818Z - Time taken for 'preTasksExecution' 0.6885999999940395ms
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:53.817Z - [Messenger] Received message, length: 2
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.818Z - Done responding to the client handleRunPreTasksExecution
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.818Z - Handled json message PRE_TASKS_EXECUTION. Handling time: 1. Response time: 0.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:53.850Z - [Messenger] Sending message type: HASH_TASKS
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:53.850Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.851Z - Received raw message of length 6166
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.851Z - Received json message of type HASH_TASKS
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.851Z - Reusing in-memory cached project graph because no files changed.
+DEBUG nx::native::tasks::hash_planner: get_plans_internal COMPLETED in 2.6375ms - processed 1 tasks (setup: 1.4182ms, parallel_planning: 1.2165ms)
+DEBUG nx::native::tasks::hashers::hash_workspace_files: Hashing workspace fileset with inputs: Adding "16564195187810814070" (".gitignore") to hash
+DEBUG nx::native::tasks::hashers::hash_workspace_files: Hashing workspace fileset with inputs: Adding "8548979761348669291" ("nx.json") to hash
+DEBUG nx::native::tasks::hashers::hash_workspace_files: Hashing workspace fileset with inputs: Hash Value: "4090312623010600049"
+DEBUG nx::native::tasks::task_hasher: hash_plans COMPLETED in 2.1778ms - processed 1 plans (setup: 300.3µs, hashing: 1.8712ms, assembly: 324.7µs)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.863Z - Serializing response for HASH_TASKS message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.863Z - Responding to HASH_TASKS message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.863Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.863Z - Done responding to the client handleHashTasks
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.863Z - Handled json message HASH_TASKS. Handling time: 12. Response time: 0.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:53.863Z - [Messenger] Received message, length: 3510
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:53.870Z - [Messenger] Sending message type: GET_ESTIMATED_TASK_TIMINGS
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:53.870Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.873Z - Received raw message of length 117
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.873Z - Received json message of type GET_ESTIMATED_TASK_TIMINGS
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.874Z - Serializing response for GET_ESTIMATED_TASK_TIMINGS message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.874Z - Responding to GET_ESTIMATED_TASK_TIMINGS message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.874Z - [REQUEST]: Responding to the client. handleGetEstimatedTaskTimings
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.874Z - Done responding to the client handleGetEstimatedTaskTimings
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:53.874Z - Handled json message GET_ESTIMATED_TASK_TIMINGS. Handling time: 1. Response time: 0.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:30:53.874Z - [Messenger] Received message, length: 2
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:30:56.516Z - [WATCHER]: Processing file changes in outputs
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:33:14.151Z - [Messenger] Sending message type: RECORD_OUTPUTS_HASH
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:33:14.152Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.153Z - Received raw message of length 82
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.153Z - Received json message of type RECORD_OUTPUTS_HASH
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.154Z - Serializing response for RECORD_OUTPUTS_HASH message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.154Z - Responding to RECORD_OUTPUTS_HASH message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.154Z - [REQUEST]: Responding to the client. recordOutputsHash
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.154Z - Done responding to the client recordOutputsHash
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.154Z - Handled json message RECORD_OUTPUTS_HASH. Handling time: 1. Response time: 0.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:33:14.154Z - [Messenger] Received message, length: 2
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:33:14.157Z - [Messenger] Sending message type: RECORD_TASK_RUNS
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:33:14.157Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.158Z - Received raw message of length 236
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.158Z - Received json message of type RECORD_TASK_RUNS
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.160Z - Serializing response for RECORD_TASK_RUNS message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.160Z - Responding to RECORD_TASK_RUNS message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.160Z - [REQUEST]: Responding to the client. handleRecordTaskRuns
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.160Z - Done responding to the client handleRecordTaskRuns
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.160Z - Handled json message RECORD_TASK_RUNS. Handling time: 2. Response time: 0.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:33:14.160Z - [Messenger] Received message, length: 4
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:33:14.160Z - [Messenger] Sending message type: GET_FLAKY_TASKS
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:33:14.161Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.161Z - Received raw message of length 60
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.161Z - Received json message of type GET_FLAKY_TASKS
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.162Z - Serializing response for GET_FLAKY_TASKS message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.162Z - Responding to GET_FLAKY_TASKS message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.162Z - [REQUEST]: Responding to the client. handleGetFlakyTasks
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.162Z - Done responding to the client handleGetFlakyTasks
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.162Z - Handled json message GET_FLAKY_TASKS. Handling time: 1. Response time: 0.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:33:14.162Z - [Messenger] Received message, length: 2
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.162Z - Established a connection. Number of open connections: 2
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:33:14.162Z - [Messenger] Sending message type: GET_CONFIGURE_AI_AGENTS_STATUS
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.162Z - Closed a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:33:14.162Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.163Z - Received raw message of length 41
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.163Z - Received json message of type GET_CONFIGURE_AI_AGENTS_STATUS
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.163Z - [AI-AGENTS]: Returning cached agent configuration status
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.163Z - Serializing response for GET_CONFIGURE_AI_AGENTS_STATUS message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.163Z - Responding to GET_CONFIGURE_AI_AGENTS_STATUS message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.163Z - [REQUEST]: Responding to the client. handleGetConfigureAiAgentsStatus
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.163Z - Done responding to the client handleGetConfigureAiAgentsStatus
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.163Z - Handled json message GET_CONFIGURE_AI_AGENTS_STATUS. Handling time: 0. Response time: 0.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:33:14.163Z - [Messenger] Received message, length: 341
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:33:14.165Z - [Messenger] Sending message type: POST_TASKS_EXECUTION
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:33:14.165Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.166Z - Received raw message of length 7818
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.166Z - Received json message of type POST_TASKS_EXECUTION
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.166Z - Serializing response for POST_TASKS_EXECUTION message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.167Z - Responding to POST_TASKS_EXECUTION message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.167Z - [REQUEST]: Responding to the client. handleRunPostTasksExecution
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.167Z - Time taken for 'postTasksExecution' 0.2955000000074506ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.167Z - Done responding to the client handleRunPostTasksExecution
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.167Z - Handled json message POST_TASKS_EXECUTION. Handling time: 0. Response time: 1.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:33:14.167Z - [Messenger] Received message, length: 4
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:14.174Z - Closed a connection. Number of open connections: 0
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.066Z - [Server] lock file hash changed! old=6051535925978519531, new=15121822780586879422
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.066Z - [Server] Daemon outdated: LOCK_FILES_CHANGED
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.066Z - [Server] Restarting daemon...
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.068Z - Restarting daemon with script: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server\start.js
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.068Z - Old daemon __dirname: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.068Z - Current process.execPath: C:\Program Files\nodejs\node.exe
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.072Z - Started new daemon process in background
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.074Z - [WATCHER]: Stopping the watcher for C:\Users\sabca\GitHub Projects\quote-generator (sources)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.074Z - [WATCHER]: Stopping the watcher for C:\Users\sabca\GitHub Projects\quote-generator (outputs)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.077Z - [LATEST-NX]: Cleaning up latest Nx installation from C:\Users\sabca\AppData\Local\Temp\tmp-16688-bwcWjzEa0Dk6
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.077Z - Server stopped because: "LOCK_FILES_CHANGED"
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.366Z - New daemon starting from: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server\server.js
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.366Z - New daemon __dirname: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\daemon\server
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.366Z - New daemon nxVersion: 22.6.5
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.367Z - New daemon getInstalledNxVersion(): 22.6.5
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.368Z - Time taken for 'workspace context init' 0.9787000000000035ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.369Z - [Server] Starting outdated check interval (20ms)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.370Z - Started listening on: \\.\pipe\nx\C:\Users\sabca\AppData\Local\Temp\36f755b6149af890ad4f\d.sock
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.372Z - [WATCHER]: Subscribed to changes within: C:\Users\sabca\GitHub Projects\quote-generator (native)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.373Z - [LATEST-NX]: Pulling latest Nx...
+Fetching nx...
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.385Z - [AI-AGENTS]: Starting agent configuration status computation
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.514Z - Time taken for 'loadSpecifiedNxPlugins' 20.736999999999966ms
+Time taken for 'plugin worker 29464 code loading' 127.72390000000001ms
+Time taken for 'plugin worker 17404 code loading' 125.91ms
+Time taken for 'plugin worker 27424 code loading' 131.8034ms
+Time taken for 'plugin worker 11968 code loading' 126.69119999999998ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.674Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\js' 181.03949999999998ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.674Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\adapter\angular-json' 175.7339ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.674Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\package-json' 171.30469999999997ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.674Z - Time taken for 'start-plugin-worker:C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\project-json\build-nodes\project-json' 164.04900000000004ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.731Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\project-json\build-nodes\project-json' 239.9565ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.731Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\adapter\angular-json' 240.79410000000007ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.735Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\package-json' 244.01599999999996ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.748Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.748Z - [REQUEST]: 
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.748Z - [REQUEST]: 
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.753Z - Time taken for 'loadDefaultNxPlugins' 260.61390000000006ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.753Z - Time taken for 'Load Nx Plugin: C:\Users\sabca\GitHub Projects\quote-generator\node_modules\nx\src\plugins\js' 258.15110000000004ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.753Z - Time taken for 'hash changed files from watcher' 0.07359999999994216ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.807Z - Time taken for 'build-project-configs' 37.77329999999995ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.807Z - Time taken for 'createNodes:merge' 7.407500000000027ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.807Z - Time taken for 'native-file-deps' 0.008499999999912689ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.807Z - Time taken for 'get-workspace-files' 2.6673999999999296ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.807Z - Time taken for 'get-all-workspace-files' 7.53570000000002ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.807Z - Time taken for 'read cache' 0.342200000000048ms
+Time taken for 'nx/js/dependencies-and-lockfile:createNodes' 21.23890000000003ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.860Z - [SYNC]: collect registered sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.861Z - Time taken for 'total execution time for createProjectGraph()' 60.606899999999996ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.861Z - Time taken for 'createDependencies' 54.35159999999996ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.861Z - Time taken for 'nx/js/dependencies-and-lockfile:createDependencies' 54.208099999999945ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.861Z - Time taken for 'createMetadata' 0.027599999999893043ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:30.861Z - Time taken for 'serialize graph' 1.4855000000000018ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:33.733Z - [LATEST-NX]: Successfully pulled latest Nx to C:\Users\sabca\AppData\Local\Temp\tmp-29456-pgewe4bK4hgJ
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:33.868Z - [NX-CONSOLE]: Using local implementation (NX_USE_LOCAL=true or inner call)
+DEBUG nx::native::ide::install: Detected editor: VSCode
+DEBUG nx::native::ide::install: Checking if Nx Console extension is installed with: code.cmd --list-extensions
+DEBUG nx::native::ide::install: Editor command 'code.cmd' is installed
+DEBUG nx::native::ide::install: Editor command 'code-insiders.cmd' not found
+DEBUG nx::native::ide::install: Checking if Nx Console extension is installed with: code.cmd --list-extensions
+DEBUG nx::native::ide::install: Nx Console extension is installed
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:34.170Z - [NX-CONSOLE]: Console status check completed, shouldPrompt: false
+DEBUG nx::native::ide::install: Nx Console extension is installed
+DEBUG nx::native::ide::install: Editor command 'cursor.cmd' not found
+DEBUG nx::native::ide::install: Checking if Nx Console extension is installed with: cursor.cmd --list-extensions
+DEBUG nx::native::ide::install: Command 'cursor.cmd' not found, cannot check extension status
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:33:34.338Z - [AI-AGENTS]: Agent configuration status computation completed: 0 fully configured, 0 outdated, 1 partially configured, 4 non-configured
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:26.986Z - [WATCHER]: Processing file changes in outputs
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:26.986Z - [WATCHER]: tsconfig.app.json was modified
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:26.986Z - [SYNC]: clearing sync generators cache due to file changes
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:27.201Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:27.201Z - [REQUEST]: tsconfig.app.json
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:27.201Z - [REQUEST]: 
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:27.222Z - Time taken for 'hash changed files from watcher' 0.14259999999922002ms
+Time taken for 'plugin worker 26936 code loading' 116.28890000000001ms
+Time taken for 'plugin worker 7084 code loading' 112.36329999999998ms
+Time taken for 'plugin worker 29276 code loading' 118.95800000000001ms
+Time taken for 'plugin worker 4784 code loading' 113.30229999999999ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:27.373Z - Time taken for 'start-plugin-worker:nx/js/dependencies-and-lockfile' 169.54609999999957ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:27.373Z - Time taken for 'start-plugin-worker:nx-angular-json-plugin' 163.3364999999976ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:27.373Z - Time taken for 'start-plugin-worker:nx/core/package-json' 159.61099999999715ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:27.373Z - Time taken for 'start-plugin-worker:nx/core/project-json' 155.28719999999885ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:27.459Z - Time taken for 'build-project-configs' 249.55509999999776ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:27.459Z - Time taken for 'createNodes:merge' 0.7198999999964144ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:27.459Z - Time taken for 'get-all-workspace-files' 0.021699999997508712ms
+Time taken for 'nx/js/dependencies-and-lockfile:createNodes' 6.4091999999999985ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:27.477Z - [SYNC]: collect registered sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:27.477Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:27.477Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:27.477Z - Time taken for 'total execution time for createProjectGraph()' 19.6675000000032ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:27.477Z - Time taken for 'createDependencies' 16.755700000001525ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:27.477Z - Time taken for 'nx/js/dependencies-and-lockfile:createDependencies' 16.66939999999886ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:27.477Z - Time taken for 'createMetadata' 0.01929999999993015ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:27.477Z - Time taken for 'serialize graph' 1.6317000000053667ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.328Z - Established a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.328Z - Closed a connection. Number of open connections: 0
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.329Z - Established a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.329Z - Established a connection. Number of open connections: 2
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.329Z - Closed a connection. Number of open connections: 1
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:34:59.328Z - [Messenger] Setting up socket listeners
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:34:59.329Z - [Messenger] listen() complete
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:34:59.330Z - [Messenger] Sending message type: GET_NX_CONSOLE_STATUS
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:34:59.330Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.506Z - Received raw message of length 32
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.506Z - Received json message of type GET_NX_CONSOLE_STATUS
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.506Z - Serializing response for GET_NX_CONSOLE_STATUS message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.506Z - Responding to GET_NX_CONSOLE_STATUS message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.506Z - [REQUEST]: Responding to the client. handleGetNxConsoleStatus
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.506Z - Done responding to the client handleGetNxConsoleStatus
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.506Z - Handled json message GET_NX_CONSOLE_STATUS. Handling time: 0. Response time: 0.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:34:59.506Z - [Messenger] Received message, length: 22
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:34:59.535Z - [Messenger] Sending message type: REQUEST_PROJECT_GRAPH
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:34:59.535Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.538Z - Received raw message of length 32
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.538Z - Received json message of type REQUEST_PROJECT_GRAPH
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.538Z - [REQUEST]: Client Request for Project Graph Received
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.538Z - Reusing in-memory cached project graph because no files changed.
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.544Z - Wrote project graph cache to C:\Users\sabca\GitHub Projects\quote-generator\.nx\workspace-data\project-graph.json
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.544Z - Serializing response for REQUEST_PROJECT_GRAPH message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.544Z - Responding to REQUEST_PROJECT_GRAPH message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.544Z - [REQUEST]: Responding to the client. project-graph
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.545Z - Time taken for 'total for creating and serializing project graph' 6.54210000000603ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.545Z - Time taken for 'write cache' 5.801500000001397ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.546Z - Done responding to the client project-graph
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.546Z - Handled json message REQUEST_PROJECT_GRAPH. Handling time: 6. Response time: 2.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:34:59.546Z - [Messenger] Received message, length: 570975
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:34:59.549Z - [Messenger] Sending message type: PRE_TASKS_EXECUTION
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:34:59.549Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.550Z - Received raw message of length 707
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.550Z - Received json message of type PRE_TASKS_EXECUTION
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.551Z - Serializing response for PRE_TASKS_EXECUTION message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.551Z - Responding to PRE_TASKS_EXECUTION message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.551Z - [REQUEST]: Responding to the client. handleRunPreTasksExecution
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.551Z - Time taken for 'preTasksExecution' 0.6928000000043539ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.551Z - Done responding to the client handleRunPreTasksExecution
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.551Z - Handled json message PRE_TASKS_EXECUTION. Handling time: 1. Response time: 0.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:34:59.551Z - [Messenger] Received message, length: 2
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:34:59.574Z - [Messenger] Sending message type: HASH_TASKS
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:34:59.575Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.575Z - Received raw message of length 6034
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.575Z - Received json message of type HASH_TASKS
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.576Z - Reusing in-memory cached project graph because no files changed.
+DEBUG nx::native::tasks::hash_planner: get_plans_internal COMPLETED in 1.7113ms - processed 1 tasks (setup: 1.6277ms, parallel_planning: 73.1µs)
+DEBUG nx::native::tasks::hashers::hash_workspace_files: Hashing workspace fileset with inputs: Adding "16564195187810814070" (".gitignore") to hash
+DEBUG nx::native::tasks::hashers::hash_workspace_files: Hashing workspace fileset with inputs: Adding "8548979761348669291" ("nx.json") to hash
+DEBUG nx::native::tasks::hashers::hash_workspace_files: Hashing workspace fileset with inputs: Hash Value: "4090312623010600049"
+DEBUG nx::native::tasks::task_hasher: hash_plans COMPLETED in 1.3127ms - processed 1 plans (setup: 170.6µs, hashing: 1.1402ms, assembly: 128µs)
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.584Z - Serializing response for HASH_TASKS message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.584Z - Responding to HASH_TASKS message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.584Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.584Z - Done responding to the client handleHashTasks
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.584Z - Handled json message HASH_TASKS. Handling time: 9. Response time: 0.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:34:59.584Z - [Messenger] Received message, length: 3544
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:34:59.592Z - [Messenger] Sending message type: GET_ESTIMATED_TASK_TIMINGS
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:34:59.592Z - [Messenger] Message sent
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.594Z - Received raw message of length 87
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.594Z - Received json message of type GET_ESTIMATED_TASK_TIMINGS
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.595Z - Serializing response for GET_ESTIMATED_TASK_TIMINGS message in json mode
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.595Z - Responding to GET_ESTIMATED_TASK_TIMINGS message
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.595Z - [REQUEST]: Responding to the client. handleGetEstimatedTaskTimings
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.595Z - Done responding to the client handleGetEstimatedTaskTimings
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:34:59.595Z - Handled json message GET_ESTIMATED_TASK_TIMINGS. Handling time: 1. Response time: 0.
+[NX v22.6.5 Daemon Client] - 2026-04-21T18:34:59.595Z - [Messenger] Received message, length: 2
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:35:00.810Z - [WATCHER]: Processing file changes in outputs
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:36:40.795Z - [WATCHER]: Processing file changes in outputs
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:36:40.795Z - [WATCHER]: src/server.ts was modified
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:36:40.795Z - [SYNC]: clearing sync generators cache due to file changes
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:36:40.903Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:36:40.903Z - [REQUEST]: src/server.ts
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:36:40.903Z - [REQUEST]: 
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:36:40.919Z - Time taken for 'hash changed files from watcher' 0.15009999999892898ms
+Time taken for 'plugin worker 18216 code loading' 113.4854ms
+Time taken for 'plugin worker 7044 code loading' 117.4984ms
+Time taken for 'plugin worker 22828 code loading' 118.5794ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:36:41.058Z - Time taken for 'start-plugin-worker:nx/js/dependencies-and-lockfile' 154.31119999999646ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:36:41.058Z - Time taken for 'start-plugin-worker:nx-angular-json-plugin' 148.0167000000074ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:36:41.058Z - Time taken for 'start-plugin-worker:nx/core/package-json' 144.7390000000014ms
+Time taken for 'plugin worker 28704 code loading' 112.50840000000001ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:36:41.075Z - Time taken for 'start-plugin-worker:nx/core/project-json' 158.32820000001811ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:36:41.149Z - Time taken for 'build-project-configs' 241.88709999999264ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:36:41.149Z - Time taken for 'createNodes:merge' 0.634699999995064ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:36:41.149Z - Time taken for 'get-all-workspace-files' 0.014900000009220093ms
+Time taken for 'nx/js/dependencies-and-lockfile:createNodes' 8.0394ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:36:41.168Z - [SYNC]: collect registered sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:36:41.169Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:36:41.169Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:36:41.169Z - Time taken for 'total execution time for createProjectGraph()' 21.0403000000224ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:36:41.169Z - Time taken for 'createDependencies' 18.43859999999404ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:36:41.169Z - Time taken for 'nx/js/dependencies-and-lockfile:createDependencies' 18.362500000017462ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:36:41.169Z - Time taken for 'createMetadata' 0.025400000013178214ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:36:41.169Z - Time taken for 'serialize graph' 2.0472000000008848ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:37:05.822Z - [WATCHER]: Processing file changes in outputs
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:37:05.822Z - [WATCHER]: src/server.ts was modified
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:37:05.823Z - [SYNC]: clearing sync generators cache due to file changes
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:37:06.026Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:37:06.026Z - [REQUEST]: src/server.ts
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:37:06.026Z - [REQUEST]: 
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:37:06.046Z - Time taken for 'hash changed files from watcher' 0.2019999999902211ms
+Time taken for 'plugin worker 7084 code loading' 136.8242ms
+Time taken for 'plugin worker 28924 code loading' 140.5879ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:37:06.209Z - Time taken for 'start-plugin-worker:nx/js/dependencies-and-lockfile' 181.44310000000405ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:37:06.209Z - Time taken for 'start-plugin-worker:nx-angular-json-plugin' 176.51819999999134ms
+Time taken for 'plugin worker 27932 code loading' 135.873ms
+Time taken for 'plugin worker 28848 code loading' 134.56210000000002ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:37:06.219Z - Time taken for 'start-plugin-worker:nx/core/package-json' 182.55379999999423ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:37:06.219Z - Time taken for 'start-plugin-worker:nx/core/project-json' 177.64990000001853ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:37:06.300Z - Time taken for 'build-project-configs' 270.67249999998603ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:37:06.300Z - Time taken for 'createNodes:merge' 0.5513000000210013ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:37:06.300Z - Time taken for 'get-all-workspace-files' 0.015499999979510903ms
+Time taken for 'nx/js/dependencies-and-lockfile:createNodes' 9.588599999999985ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:37:06.319Z - [SYNC]: collect registered sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:37:06.320Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:37:06.320Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:37:06.320Z - Time taken for 'total execution time for createProjectGraph()' 20.517499999987194ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:37:06.320Z - Time taken for 'createDependencies' 18.526899999997113ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:37:06.320Z - Time taken for 'nx/js/dependencies-and-lockfile:createDependencies' 18.434700000012526ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:37:06.320Z - Time taken for 'createMetadata' 0.02729999998700805ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:37:06.320Z - Time taken for 'serialize graph' 1.7206000000005588ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:39:17.811Z - [WATCHER]: Processing file changes in outputs
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:39:17.811Z - [WATCHER]: src/server.ts was modified
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:39:17.811Z - [SYNC]: clearing sync generators cache due to file changes
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:39:18.214Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:39:18.214Z - [REQUEST]: src/server.ts
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:39:18.214Z - [REQUEST]: 
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:39:18.238Z - Time taken for 'hash changed files from watcher' 0.19140000001061708ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:39:18.387Z - Time taken for 'start-plugin-worker:nx/js/dependencies-and-lockfile' 171.3864000000176ms
+Time taken for 'plugin worker 26716 code loading' 126.95530000000001ms
+Time taken for 'plugin worker 29676 code loading' 125.08489999999999ms
+Time taken for 'plugin worker 29436 code loading' 124.4731ms
+Time taken for 'plugin worker 16688 code loading' 121.50800000000001ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:39:18.402Z - Time taken for 'start-plugin-worker:nx-angular-json-plugin' 178.80379999999423ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:39:18.402Z - Time taken for 'start-plugin-worker:nx/core/package-json' 173.36629999999423ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:39:18.402Z - Time taken for 'start-plugin-worker:nx/core/project-json' 168.1995000000461ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:39:18.493Z - Time taken for 'build-project-configs' 274.2240999999922ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:39:18.493Z - Time taken for 'createNodes:merge' 0.8600000000442378ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:39:18.493Z - Time taken for 'get-all-workspace-files' 0.032100000011269ms
+Time taken for 'nx/js/dependencies-and-lockfile:createNodes' 7.99260000000001ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:39:18.514Z - [SYNC]: collect registered sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:39:18.514Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:39:18.514Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:39:18.514Z - Time taken for 'total execution time for createProjectGraph()' 22.620400000014342ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:39:18.515Z - Time taken for 'createDependencies' 20.19049999996787ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:39:18.515Z - Time taken for 'nx/js/dependencies-and-lockfile:createDependencies' 20.088400000007823ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:39:18.515Z - Time taken for 'createMetadata' 0.017899999977089465ms
+[NX v22.6.5 Daemon Server] - 2026-04-21T18:39:18.515Z - Time taken for 'serialize graph' 1.867499999993015ms
