@@ -37,11 +37,11 @@
         },
         {
           "file": "README.md",
-          "hash": "4968569211145267461"
+          "hash": "543213435061584278"
         },
         {
           "file": "angular.json",
-          "hash": "4887319996873934191"
+          "hash": "6562260913256319744"
         },
         {
           "file": "nx.json",
@@ -57,7 +57,7 @@
         },
         {
           "file": "project.json",
-          "hash": "17509661239164066403"
+          "hash": "15301595362720714770"
         },
         {
           "file": "public/favicon.ico",
@@ -65,7 +65,7 @@
         },
         {
           "file": "public/quotes.json",
-          "hash": "5873827833882094202"
+          "hash": "7889942637832068460"
         },
         {
           "file": "src/app/app.config.server.ts",
@@ -86,7 +86,7 @@
         },
         {
           "file": "src/app/app.html",
-          "hash": "14832181028062827987"
+          "hash": "13337562426519938714"
         },
         {
           "file": "src/app/app.routes.server.ts",
@@ -115,7 +115,7 @@
         },
         {
           "file": "src/app/app.ts",
-          "hash": "8462295313187780980",
+          "hash": "15412832376001455041",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/material"
@@ -127,9 +127,10 @@
         },
         {
           "file": "src/app/services/quote.service.ts",
-          "hash": "3893769418482573985",
+          "hash": "10554336723814894854",
           "deps": [
-            "npm:@angular/core"
+            "npm:@angular/core",
+            "npm:@angular/common"
           ]
         },
         {
@@ -160,7 +161,7 @@
         },
         {
           "file": "src/styles.scss",
-          "hash": "11440781096790906122"
+          "hash": "7476497080056056086"
         },
         {
           "file": "tsconfig.app.json",

@@ -76,17 +76,13 @@
       "project.json",
       "nx/core/project-json"
     ],
-    "targets.build.options.server": [
-      "angular.json",
-      "nx-angular-json-plugin"
-    ],
     "targets.build.options.outputMode": [
-      "angular.json",
-      "nx-angular-json-plugin"
+      "project.json",
+      "nx/core/project-json"
     ],
     "targets.build.options.ssr": [
-      "angular.json",
-      "nx-angular-json-plugin"
+      "project.json",
+      "nx/core/project-json"
     ],
     "targets.build.configurations.production": [
       "project.json",
