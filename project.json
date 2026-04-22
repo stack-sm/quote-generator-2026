@@ -23,7 +23,9 @@
           }
         ],
         "styles": ["src/styles.scss"],
-        "outputPath": "dist/my-app"
+        "outputPath": "dist/my-app",
+        "outputMode": "static",
+        "ssr": false
       },
       "configurations": {
         "production": {
