@@ -135,6 +135,15 @@
         "hash": "sha512-ciPihkletp7ttweJ8Zt+GukSVLp2ANJHU+9ttiSxsJZThXc4Y2yJ8HGVWesW5jN1zrsZsezN71KrMx/iZsOYpg=="
       }
     },
+    "npm:@alloc/quick-lru": {
+      "type": "npm",
+      "name": "npm:@alloc/quick-lru",
+      "data": {
+        "version": "5.2.0",
+        "packageName": "@alloc/quick-lru",
+        "hash": "sha512-UrcABB+4bUrFABwbluTIBErXwvbsU/V7TZWfmbgJfbkwiBuziS9gxdODUyuiecfdGQ85jglMW6juS3+z5TsKLw=="
+      }
+    },
     "npm:@ampproject/remapping": {
       "type": "npm",
       "name": "npm:@ampproject/remapping",
@@ -178,6 +187,15 @@
         "version": "21.1.4",
         "packageName": "@angular/build",
         "hash": "sha512-7CAAQPWFMMqod40ox5MOVB/CnoBXFDehyQhs0hls6lu7bOy/M0EDy0v6bERkyNGRz1mihWWBiCV8XzEinrlq1A=="
+      }
+    },
+    "npm:@angular/cdk": {
+      "type": "npm",
+      "name": "npm:@angular/cdk",
+      "data": {
+        "version": "21.2.7",
+        "packageName": "@angular/cdk",
+        "hash": "sha512-GHQZ+d5k3nY9JXPNEJpeuLd8FSy03hxXAYsq6IQI4AcTIQow3QZlHj6g3/sk2QlqnzCaEhfRmwx7AO5iXyzdZQ=="
       }
     },
     "npm:@angular/cli": {
@@ -232,6 +250,15 @@
         "version": "21.1.4",
         "packageName": "@angular/forms",
         "hash": "sha512-duVT/eOncmFNBYRlK/F7WDg6GD1vL1mxUrDdnp7M9J8JvNrKH0PvdfzuOAmjbB8/bsvUNTLFXCV4+43Mc2Hqsw=="
+      }
+    },
+    "npm:@angular/material": {
+      "type": "npm",
+      "name": "npm:@angular/material",
+      "data": {
+        "version": "21.2.7",
+        "packageName": "@angular/material",
+        "hash": "sha512-YRUE33ZbKwtYjp+b3WrChO5bjKnzg3CjQaJPPIW3OGY9kCxxKp78ub8veh2tXodChvDaCYg5jLxjBJopMogxTw=="
       }
     },
     "npm:@angular/platform-browser": {
@@ -4635,6 +4662,159 @@
         "hash": "sha512-l2aFy5jALhniG5HgqrD6jXLi/rUWrKvqN/qJx6yoJsgKhblVd+iqqU4RCXavm/jPityDo5TCvKMnpjKnOriy0w=="
       }
     },
+    "npm:@tailwindcss/node": {
+      "type": "npm",
+      "name": "npm:@tailwindcss/node",
+      "data": {
+        "version": "4.2.4",
+        "packageName": "@tailwindcss/node",
+        "hash": "sha512-Ai7+yQPxz3ddrDQzFfBKdHEVBg0w3Zl83jnjuwxnZOsnH9pGn93QHQtpU0p/8rYWxvbFZHneni6p1BSLK4DkGA=="
+      }
+    },
+    "npm:jiti@2.6.1": {
+      "type": "npm",
+      "name": "npm:jiti@2.6.1",
+      "data": {
+        "version": "2.6.1",
+        "packageName": "jiti",
+        "hash": "sha512-ekilCSN1jwRvIbgeg/57YFh8qQDNbwDb9xT/qu2DAHbFFZUicIl4ygVaAvzveMhMVr3LnpSKTNnwt8PoOfmKhQ=="
+      }
+    },
+    "npm:jiti": {
+      "type": "npm",
+      "name": "npm:jiti",
+      "data": {
+        "version": "2.4.2",
+        "packageName": "jiti",
+        "hash": "sha512-rg9zJN+G4n2nfJl5MW3BMygZX56zKPNVEYYqq7adpmMh4Jn2QNEwhvQlFy6jPVdcod7txZtKHWnyZiA3a0zP7A=="
+      }
+    },
+    "npm:@tailwindcss/oxide": {
+      "type": "npm",
+      "name": "npm:@tailwindcss/oxide",
+      "data": {
+        "version": "4.2.4",
+        "packageName": "@tailwindcss/oxide",
+        "hash": "sha512-9El/iI069DKDSXwTvB9J4BwdO5JhRrOweGaK25taBAvBXyXqJAX+Jqdvs8r8gKpsI/1m0LeJLyQYTf/WLrBT1Q=="
+      }
+    },
+    "npm:@tailwindcss/oxide-android-arm64": {
+      "type": "npm",
+      "name": "npm:@tailwindcss/oxide-android-arm64",
+      "data": {
+        "version": "4.2.4",
+        "packageName": "@tailwindcss/oxide-android-arm64",
+        "hash": "sha512-e7MOr1SAn9U8KlZzPi1ZXGZHeC5anY36qjNwmZv9pOJ8E4Q6jmD1vyEHkQFmNOIN7twGPEMXRHmitN4zCMN03g=="
+      }
+    },
+    "npm:@tailwindcss/oxide-darwin-arm64": {
+      "type": "npm",
+      "name": "npm:@tailwindcss/oxide-darwin-arm64",
+      "data": {
+        "version": "4.2.4",
+        "packageName": "@tailwindcss/oxide-darwin-arm64",
+        "hash": "sha512-tSC/Kbqpz/5/o/C2sG7QvOxAKqyd10bq+ypZNf+9Fi2TvbVbv1zNpcEptcsU7DPROaSbVgUXmrzKhurFvo5eDg=="
+      }
+    },
+    "npm:@tailwindcss/oxide-darwin-x64": {
+      "type": "npm",
+      "name": "npm:@tailwindcss/oxide-darwin-x64",
+      "data": {
+        "version": "4.2.4",
+        "packageName": "@tailwindcss/oxide-darwin-x64",
+        "hash": "sha512-yPyUXn3yO/ufR6+Kzv0t4fCg2qNr90jxXc5QqBpjlPNd0NqyDXcmQb/6weunH/MEDXW5dhyEi+agTDiqa3WsGg=="
+      }
+    },
+    "npm:@tailwindcss/oxide-freebsd-x64": {
+      "type": "npm",
+      "name": "npm:@tailwindcss/oxide-freebsd-x64",
+      "data": {
+        "version": "4.2.4",
+        "packageName": "@tailwindcss/oxide-freebsd-x64",
+        "hash": "sha512-BoMIB4vMQtZsXdGLVc2z+P9DbETkiopogfWZKbWwM8b/1Vinbs4YcUwo+kM/KeLkX3Ygrf4/PsRndKaYhS8Eiw=="
+      }
+    },
+    "npm:@tailwindcss/oxide-linux-arm-gnueabihf": {
+      "type": "npm",
+      "name": "npm:@tailwindcss/oxide-linux-arm-gnueabihf",
+      "data": {
+        "version": "4.2.4",
+        "packageName": "@tailwindcss/oxide-linux-arm-gnueabihf",
+        "hash": "sha512-7pIHBLTHYRAlS7V22JNuTh33yLH4VElwKtB3bwchK/UaKUPpQ0lPQiOWcbm4V3WP2I6fNIJ23vABIvoy2izdwA=="
+      }
+    },
+    "npm:@tailwindcss/oxide-linux-arm64-gnu": {
+      "type": "npm",
+      "name": "npm:@tailwindcss/oxide-linux-arm64-gnu",
+      "data": {
+        "version": "4.2.4",
+        "packageName": "@tailwindcss/oxide-linux-arm64-gnu",
+        "hash": "sha512-+E4wxJ0ZGOzSH325reXTWB48l42i93kQqMvDyz5gqfRzRZ7faNhnmvlV4EPGJU3QJM/3Ab5jhJ5pCRUsKn6OQw=="
+      }
+    },
+    "npm:@tailwindcss/oxide-linux-arm64-musl": {
+      "type": "npm",
+      "name": "npm:@tailwindcss/oxide-linux-arm64-musl",
+      "data": {
+        "version": "4.2.4",
+        "packageName": "@tailwindcss/oxide-linux-arm64-musl",
+        "hash": "sha512-bBADEGAbo4ASnppIziaQJelekCxdMaxisrk+fB7Thit72IBnALp9K6ffA2G4ruj90G9XRS2VQ6q2bCKbfFV82g=="
+      }
+    },
+    "npm:@tailwindcss/oxide-linux-x64-gnu": {
+      "type": "npm",
+      "name": "npm:@tailwindcss/oxide-linux-x64-gnu",
+      "data": {
+        "version": "4.2.4",
+        "packageName": "@tailwindcss/oxide-linux-x64-gnu",
+        "hash": "sha512-7Mx25E4WTfnht0TVRTyC00j3i0M+EeFe7wguMDTlX4mRxafznw0CA8WJkFjWYH5BlgELd1kSjuU2JiPnNZbJDA=="
+      }
+    },
+    "npm:@tailwindcss/oxide-linux-x64-musl": {
+      "type": "npm",
+      "name": "npm:@tailwindcss/oxide-linux-x64-musl",
+      "data": {
+        "version": "4.2.4",
+        "packageName": "@tailwindcss/oxide-linux-x64-musl",
+        "hash": "sha512-2wwJRF7nyhOR0hhHoChc04xngV3iS+akccHTGtz965FwF0up4b2lOdo6kI1EbDaEXKgvcrFBYcYQQ/rrnWFVfA=="
+      }
+    },
+    "npm:@tailwindcss/oxide-wasm32-wasi": {
+      "type": "npm",
+      "name": "npm:@tailwindcss/oxide-wasm32-wasi",
+      "data": {
+        "version": "4.2.4",
+        "packageName": "@tailwindcss/oxide-wasm32-wasi",
+        "hash": "sha512-FQsqApeor8Fo6gUEklzmaa9994orJZZDBAlQpK2Mq+DslRKFJeD6AjHpBQ0kZFQohVr8o85PPh8eOy86VlSCmw=="
+      }
+    },
+    "npm:@tailwindcss/oxide-win32-arm64-msvc": {
+      "type": "npm",
+      "name": "npm:@tailwindcss/oxide-win32-arm64-msvc",
+      "data": {
+        "version": "4.2.4",
+        "packageName": "@tailwindcss/oxide-win32-arm64-msvc",
+        "hash": "sha512-L9BXqxC4ToVgwMFqj3pmZRqyHEztulpUJzCxUtLjobMCzTPsGt1Fa9enKbOpY2iIyVtaHNeNvAK8ERP/64sqGQ=="
+      }
+    },
+    "npm:@tailwindcss/oxide-win32-x64-msvc": {
+      "type": "npm",
+      "name": "npm:@tailwindcss/oxide-win32-x64-msvc",
+      "data": {
+        "version": "4.2.4",
+        "packageName": "@tailwindcss/oxide-win32-x64-msvc",
+        "hash": "sha512-ESlKG0EpVJQwRjXDDa9rLvhEAh0mhP1sF7sap9dNZT0yyl9SAG6T7gdP09EH0vIv0UNTlo6jPWyujD6559fZvw=="
+      }
+    },
+    "npm:@tailwindcss/postcss": {
+      "type": "npm",
+      "name": "npm:@tailwindcss/postcss",
+      "data": {
+        "version": "4.2.4",
+        "packageName": "@tailwindcss/postcss",
+        "hash": "sha512-wgAVj6nUWAolAu8YFvzT2cTBIElWHkjZwFYovF+xsqKsW2ADxM/X2opxj5NsF/qVccAOjRNe8X2IdPzMsWyHTg=="
+      }
+    },
     "npm:@tufjs/canonical-json": {
       "type": "npm",
       "name": "npm:@tufjs/canonical-json",
@@ -8451,24 +8631,6 @@
         "hash": "sha512-7vuh85V5cdDofPyxn58nrPjBktZo0u9x1g8WtjQol+jZDaE+fhN+cIvTj11GndBnMnyfrUOG1sZQxCdjKh+DKg=="
       }
     },
-    "npm:jiti": {
-      "type": "npm",
-      "name": "npm:jiti",
-      "data": {
-        "version": "2.4.2",
-        "packageName": "jiti",
-        "hash": "sha512-rg9zJN+G4n2nfJl5MW3BMygZX56zKPNVEYYqq7adpmMh4Jn2QNEwhvQlFy6jPVdcod7txZtKHWnyZiA3a0zP7A=="
-      }
-    },
-    "npm:jiti@2.6.1": {
-      "type": "npm",
-      "name": "npm:jiti@2.6.1",
-      "data": {
-        "version": "2.6.1",
-        "packageName": "jiti",
-        "hash": "sha512-ekilCSN1jwRvIbgeg/57YFh8qQDNbwDb9xT/qu2DAHbFFZUicIl4ygVaAvzveMhMVr3LnpSKTNnwt8PoOfmKhQ=="
-      }
-    },
     "npm:jose": {
       "type": "npm",
       "name": "npm:jose",
@@ -8638,6 +8800,114 @@
         "version": "4.0.2",
         "packageName": "license-webpack-plugin",
         "hash": "sha512-771TFWFD70G1wLTC4oU2Cw4qvtmNrIw+wRvBtn+okgHl7slJVi7zfNcdmqDL72BojM30VNJ2UHylr1o77U37Jw=="
+      }
+    },
+    "npm:lightningcss": {
+      "type": "npm",
+      "name": "npm:lightningcss",
+      "data": {
+        "version": "1.32.0",
+        "packageName": "lightningcss",
+        "hash": "sha512-NXYBzinNrblfraPGyrbPoD19C1h9lfI/1mzgWYvXUTe414Gz/X1FD2XBZSZM7rRTrMA8JL3OtAaGifrIKhQ5yQ=="
+      }
+    },
+    "npm:lightningcss-android-arm64": {
+      "type": "npm",
+      "name": "npm:lightningcss-android-arm64",
+      "data": {
+        "version": "1.32.0",
+        "packageName": "lightningcss-android-arm64",
+        "hash": "sha512-YK7/ClTt4kAK0vo6w3X+Pnm0D2cf2vPHbhOXdoNti1Ga0al1P4TBZhwjATvjNwLEBCnKvjJc2jQgHXH0NEwlAg=="
+      }
+    },
+    "npm:lightningcss-darwin-arm64": {
+      "type": "npm",
+      "name": "npm:lightningcss-darwin-arm64",
+      "data": {
+        "version": "1.32.0",
+        "packageName": "lightningcss-darwin-arm64",
+        "hash": "sha512-RzeG9Ju5bag2Bv1/lwlVJvBE3q6TtXskdZLLCyfg5pt+HLz9BqlICO7LZM7VHNTTn/5PRhHFBSjk5lc4cmscPQ=="
+      }
+    },
+    "npm:lightningcss-darwin-x64": {
+      "type": "npm",
+      "name": "npm:lightningcss-darwin-x64",
+      "data": {
+        "version": "1.32.0",
+        "packageName": "lightningcss-darwin-x64",
+        "hash": "sha512-U+QsBp2m/s2wqpUYT/6wnlagdZbtZdndSmut/NJqlCcMLTWp5muCrID+K5UJ6jqD2BFshejCYXniPDbNh73V8w=="
+      }
+    },
+    "npm:lightningcss-freebsd-x64": {
+      "type": "npm",
+      "name": "npm:lightningcss-freebsd-x64",
+      "data": {
+        "version": "1.32.0",
+        "packageName": "lightningcss-freebsd-x64",
+        "hash": "sha512-JCTigedEksZk3tHTTthnMdVfGf61Fky8Ji2E4YjUTEQX14xiy/lTzXnu1vwiZe3bYe0q+SpsSH/CTeDXK6WHig=="
+      }
+    },
+    "npm:lightningcss-linux-arm-gnueabihf": {
+      "type": "npm",
+      "name": "npm:lightningcss-linux-arm-gnueabihf",
+      "data": {
+        "version": "1.32.0",
+        "packageName": "lightningcss-linux-arm-gnueabihf",
+        "hash": "sha512-x6rnnpRa2GL0zQOkt6rts3YDPzduLpWvwAF6EMhXFVZXD4tPrBkEFqzGowzCsIWsPjqSK+tyNEODUBXeeVHSkw=="
+      }
+    },
+    "npm:lightningcss-linux-arm64-gnu": {
+      "type": "npm",
+      "name": "npm:lightningcss-linux-arm64-gnu",
+      "data": {
+        "version": "1.32.0",
+        "packageName": "lightningcss-linux-arm64-gnu",
+        "hash": "sha512-0nnMyoyOLRJXfbMOilaSRcLH3Jw5z9HDNGfT/gwCPgaDjnx0i8w7vBzFLFR1f6CMLKF8gVbebmkUN3fa/kQJpQ=="
+      }
+    },
+    "npm:lightningcss-linux-arm64-musl": {
+      "type": "npm",
+      "name": "npm:lightningcss-linux-arm64-musl",
+      "data": {
+        "version": "1.32.0",
+        "packageName": "lightningcss-linux-arm64-musl",
+        "hash": "sha512-UpQkoenr4UJEzgVIYpI80lDFvRmPVg6oqboNHfoH4CQIfNA+HOrZ7Mo7KZP02dC6LjghPQJeBsvXhJod/wnIBg=="
+      }
+    },
+    "npm:lightningcss-linux-x64-gnu": {
+      "type": "npm",
+      "name": "npm:lightningcss-linux-x64-gnu",
+      "data": {
+        "version": "1.32.0",
+        "packageName": "lightningcss-linux-x64-gnu",
+        "hash": "sha512-V7Qr52IhZmdKPVr+Vtw8o+WLsQJYCTd8loIfpDaMRWGUZfBOYEJeyJIkqGIDMZPwPx24pUMfwSxxI8phr/MbOA=="
+      }
+    },
+    "npm:lightningcss-linux-x64-musl": {
+      "type": "npm",
+      "name": "npm:lightningcss-linux-x64-musl",
+      "data": {
+        "version": "1.32.0",
+        "packageName": "lightningcss-linux-x64-musl",
+        "hash": "sha512-bYcLp+Vb0awsiXg/80uCRezCYHNg1/l3mt0gzHnWV9XP1W5sKa5/TCdGWaR/zBM2PeF/HbsQv/j2URNOiVuxWg=="
+      }
+    },
+    "npm:lightningcss-win32-arm64-msvc": {
+      "type": "npm",
+      "name": "npm:lightningcss-win32-arm64-msvc",
+      "data": {
+        "version": "1.32.0",
+        "packageName": "lightningcss-win32-arm64-msvc",
+        "hash": "sha512-8SbC8BR40pS6baCM8sbtYDSwEVQd4JlFTOlaD3gWGHfThTcABnNDBda6eTZeqbofalIJhFx0qKzgHJmcPTnGdw=="
+      }
+    },
+    "npm:lightningcss-win32-x64-msvc": {
+      "type": "npm",
+      "name": "npm:lightningcss-win32-x64-msvc",
+      "data": {
+        "version": "1.32.0",
+        "packageName": "lightningcss-win32-x64-msvc",
+        "hash": "sha512-Amq9B/SoZYdDi1kFrojnoqPLxYhQ4Wo5XiL8EVJrVsB8ARoC1PWW6VGtT0WKCemjy8aC+louJnjS7U18x3b06Q=="
       }
     },
     "npm:lilconfig": {
@@ -10971,6 +11241,15 @@
         "hash": "sha512-gAQ9qrUN/UCypHtGFbbe7Rc/f9bzO88IwrG8TDo/aMKAApKyD6E3W4Cm0EfhfBb6Z6SKt59tTCTfD+n1xmAvMg=="
       }
     },
+    "npm:tailwindcss": {
+      "type": "npm",
+      "name": "npm:tailwindcss",
+      "data": {
+        "version": "4.2.4",
+        "packageName": "tailwindcss",
+        "hash": "sha512-HhKppgO81FQof5m6TEnuBWCZGgfRAWbaeOaGT00KOy/Pf/j6oUihdvBpA7ltCeAvZpFhW3j0PTclkxsd4IXYDA=="
+      }
+    },
     "npm:tapable": {
       "type": "npm",
       "name": "npm:tapable",
@@ -11735,17 +12014,20 @@
     "node_modules/@algolia/requester-browser-xhr": "npm:@algolia/requester-browser-xhr",
     "node_modules/@algolia/requester-fetch": "npm:@algolia/requester-fetch",
     "node_modules/@algolia/requester-node-http": "npm:@algolia/requester-node-http",
+    "node_modules/@alloc/quick-lru": "npm:@alloc/quick-lru",
     "node_modules/@ampproject/remapping": "npm:@ampproject/remapping",
     "node_modules/@angular-devkit/architect": "npm:@angular-devkit/architect",
     "node_modules/@angular-devkit/core": "npm:@angular-devkit/core",
     "node_modules/@angular-devkit/schematics": "npm:@angular-devkit/schematics",
     "node_modules/@angular/build": "npm:@angular/build",
+    "node_modules/@angular/cdk": "npm:@angular/cdk",
     "node_modules/@angular/cli": "npm:@angular/cli",
     "node_modules/@angular/common": "npm:@angular/common",
     "node_modules/@angular/compiler": "npm:@angular/compiler",
     "node_modules/@angular/compiler-cli": "npm:@angular/compiler-cli",
     "node_modules/@angular/core": "npm:@angular/core",
     "node_modules/@angular/forms": "npm:@angular/forms",
+    "node_modules/@angular/material": "npm:@angular/material",
     "node_modules/@angular/platform-browser": "npm:@angular/platform-browser",
     "node_modules/@angular/platform-server": "npm:@angular/platform-server",
     "node_modules/@angular/router": "npm:@angular/router",
@@ -12244,6 +12526,22 @@
     "node_modules/@sigstore/verify": "npm:@sigstore/verify",
     "node_modules/@sinclair/typebox": "npm:@sinclair/typebox",
     "node_modules/@standard-schema/spec": "npm:@standard-schema/spec",
+    "node_modules/@tailwindcss/node": "npm:@tailwindcss/node",
+    "node_modules/@tailwindcss/node/node_modules/jiti": "npm:jiti@2.6.1",
+    "node_modules/@tailwindcss/oxide": "npm:@tailwindcss/oxide",
+    "node_modules/@tailwindcss/oxide-android-arm64": "npm:@tailwindcss/oxide-android-arm64",
+    "node_modules/@tailwindcss/oxide-darwin-arm64": "npm:@tailwindcss/oxide-darwin-arm64",
+    "node_modules/@tailwindcss/oxide-darwin-x64": "npm:@tailwindcss/oxide-darwin-x64",
+    "node_modules/@tailwindcss/oxide-freebsd-x64": "npm:@tailwindcss/oxide-freebsd-x64",
+    "node_modules/@tailwindcss/oxide-linux-arm-gnueabihf": "npm:@tailwindcss/oxide-linux-arm-gnueabihf",
+    "node_modules/@tailwindcss/oxide-linux-arm64-gnu": "npm:@tailwindcss/oxide-linux-arm64-gnu",
+    "node_modules/@tailwindcss/oxide-linux-arm64-musl": "npm:@tailwindcss/oxide-linux-arm64-musl",
+    "node_modules/@tailwindcss/oxide-linux-x64-gnu": "npm:@tailwindcss/oxide-linux-x64-gnu",
+    "node_modules/@tailwindcss/oxide-linux-x64-musl": "npm:@tailwindcss/oxide-linux-x64-musl",
+    "node_modules/@tailwindcss/oxide-wasm32-wasi": "npm:@tailwindcss/oxide-wasm32-wasi",
+    "node_modules/@tailwindcss/oxide-win32-arm64-msvc": "npm:@tailwindcss/oxide-win32-arm64-msvc",
+    "node_modules/@tailwindcss/oxide-win32-x64-msvc": "npm:@tailwindcss/oxide-win32-x64-msvc",
+    "node_modules/@tailwindcss/postcss": "npm:@tailwindcss/postcss",
     "node_modules/@tufjs/canonical-json": "npm:@tufjs/canonical-json",
     "node_modules/@tufjs/models": "npm:@tufjs/models",
     "node_modules/@tybys/wasm-util": "npm:@tybys/wasm-util",
@@ -12697,6 +12995,18 @@
     "node_modules/less/node_modules/source-map": "npm:source-map@0.6.1",
     "node_modules/levn": "npm:levn",
     "node_modules/license-webpack-plugin": "npm:license-webpack-plugin",
+    "node_modules/lightningcss": "npm:lightningcss",
+    "node_modules/lightningcss-android-arm64": "npm:lightningcss-android-arm64",
+    "node_modules/lightningcss-darwin-arm64": "npm:lightningcss-darwin-arm64",
+    "node_modules/lightningcss-darwin-x64": "npm:lightningcss-darwin-x64",
+    "node_modules/lightningcss-freebsd-x64": "npm:lightningcss-freebsd-x64",
+    "node_modules/lightningcss-linux-arm-gnueabihf": "npm:lightningcss-linux-arm-gnueabihf",
+    "node_modules/lightningcss-linux-arm64-gnu": "npm:lightningcss-linux-arm64-gnu",
+    "node_modules/lightningcss-linux-arm64-musl": "npm:lightningcss-linux-arm64-musl",
+    "node_modules/lightningcss-linux-x64-gnu": "npm:lightningcss-linux-x64-gnu",
+    "node_modules/lightningcss-linux-x64-musl": "npm:lightningcss-linux-x64-musl",
+    "node_modules/lightningcss-win32-arm64-msvc": "npm:lightningcss-win32-arm64-msvc",
+    "node_modules/lightningcss-win32-x64-msvc": "npm:lightningcss-win32-x64-msvc",
     "node_modules/lilconfig": "npm:lilconfig",
     "node_modules/lines-and-columns": "npm:lines-and-columns",
     "node_modules/listr2": "npm:listr2",
@@ -13045,6 +13355,7 @@
     "node_modules/symbol-tree": "npm:symbol-tree",
     "node_modules/sync-child-process": "npm:sync-child-process",
     "node_modules/sync-message-port": "npm:sync-message-port",
+    "node_modules/tailwindcss": "npm:tailwindcss",
     "node_modules/tapable": "npm:tapable",
     "node_modules/tar": "npm:tar",
     "node_modules/tar-stream": "npm:tar-stream",

@@ -16,6 +16,10 @@
           "hash": "16564195187810814070"
         },
         {
+          "file": ".postcssrc.json",
+          "hash": "17460548602263189673"
+        },
+        {
           "file": ".vscode/extensions.json",
           "hash": "846410922303958854"
         },
@@ -45,19 +49,23 @@
         },
         {
           "file": "package-lock.json",
-          "hash": "134701326928821167"
+          "hash": "17212731472877621162"
         },
         {
           "file": "package.json",
-          "hash": "14362703827505777318"
+          "hash": "8418108611848283451"
         },
         {
           "file": "project.json",
-          "hash": "12238293008597379110"
+          "hash": "17509661239164066403"
         },
         {
           "file": "public/favicon.ico",
           "hash": "3988961587069885523"
+        },
+        {
+          "file": "public/quotes.json",
+          "hash": "5873827833882094202"
         },
         {
           "file": "src/app/app.config.server.ts",
@@ -78,7 +86,7 @@
         },
         {
           "file": "src/app/app.html",
-          "hash": "4978843032042097093"
+          "hash": "14832181028062827987"
         },
         {
           "file": "src/app/app.routes.server.ts",
@@ -107,7 +115,19 @@
         },
         {
           "file": "src/app/app.ts",
-          "hash": "2520212701051147277",
+          "hash": "8462295313187780980",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/material"
+          ]
+        },
+        {
+          "file": "src/app/models/quote.model.ts",
+          "hash": "4340030556768893575"
+        },
+        {
+          "file": "src/app/services/quote.service.ts",
+          "hash": "3893769418482573985",
           "deps": [
             "npm:@angular/core"
           ]
@@ -132,7 +152,7 @@
         },
         {
           "file": "src/server.ts",
-          "hash": "16636138296247357433",
+          "hash": "16632245879080845755",
           "deps": [
             "npm:@angular/ssr",
             "npm:express"
@@ -140,7 +160,7 @@
         },
         {
           "file": "src/styles.scss",
-          "hash": "2917954890128038984"
+          "hash": "11440781096790906122"
         },
         {
           "file": "tsconfig.app.json",
@@ -157,5 +177,5 @@
       ]
     }
   },
-  "externalNodesHash": "1667719554086709832"
+  "externalNodesHash": "11148195628397208602"
 }

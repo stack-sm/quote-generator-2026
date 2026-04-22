@@ -1,1 +1,20 @@
-/* You can add global styles to this file, and also import other style files */
+// Keep @use at the very top for Angular Material
+@use '@angular/material' as mat;
+
+// Tailwind base styles 
+// layer(base) is needed for sass to work with Tailwind's @import approach 
+@import "tailwindcss" layer(base);
+
+// Define Material 3 theme
+$theme: mat.define-theme((
+  color: (
+    theme-type: light,
+    primary: mat.$azure-palette,
+    tertiary: mat.$blue-palette,
+  ),
+));
+
+// Apply the theme
+html {
+  @include mat.all-component-themes($theme);
+}

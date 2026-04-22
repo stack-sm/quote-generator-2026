@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "text": "To be, or not to be, that is the question.",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 2,
+    "text": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "id": 3,
+    "text": "All that we are is the result of what we have thought.",
+    "author": "Buddha"
+  },
+  {
+    "id": 4,
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs"
+  },
+  {
+    "id": 5,
+    "text": "I have no special talent. I am only passionately curious.",
+    "author": "Albert Einstein"
+  },
+  {
+    "id": 6,
+    "text": "The successful warrior is the average man, with laser-like focus.",
+    "author": "Bruce Lee"
+  },
+  {
+    "id": 7,
+    "text": "Those who dare to fail miserably can achieve greatly. ",
+    "author": "John F. Kennedy"
+  },
+  {
+    "id": 8,
+    "text": "A great man is always willing to be little.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "id": 9,
+    "text": "The measure of intelligence is the ability to change.",
+    "author": "Albert Einstein"
+  },
+  {
+    "id": 10,
+    "text": "I came, I saw, I conquered.",
+    "author": "Julius Caesar"
+  },
+  {
+    "id": 11,
+    "text": "I think, therefore I am.",
+    "author": "René Descartes"
+  },
+  {
+    "id": 12,
+    "text": "Whenever you find yourself on the side of the majority, it is time to pause and reflect.",
+    "author": "Mark Twain"
+  },
+  {
+    "id": 13,
+    "text": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "id": 14,
+    "text": "You miss 100 percent of the shots you never take. ",
+    "author": "Wayne Gretzky"
+  },
+  {
+    "id": 15,
+    "text": "Nonviolence is a weapon of the strong.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "id": 16,
+    "text": "Big Brother is watching you.",
+    "author": "George Orwell"
+  },
+  {
+    "id": 17,
+    "text": "The only thing that interferes with my learning is my education.",
+    "author": "Albert Einstein"
+  },
+  {
+    "id": 18,
+    "text": "If you think you can do a thing or think you can’t do a thing, you’re right.",
+    "author": "Henry Ford"
+  },
+  {
+    "id": 19,
+    "text": "It always seems impossible until it’s done.",
+    "author": "Nelson Mandela"
+  }
+]
